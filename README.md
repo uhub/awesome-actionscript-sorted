@@ -25,13 +25,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [mherkender/actionjson](https://github.com/mherkender/actionjson) - A faster, more advanced ActionScript 3 JSON library
 * [simongregory/actionscript3-tmbundle](https://github.com/simongregory/actionscript3-tmbundle) - ActionScript 3 TextMate Bundle
 * [sephiroth74/purePDF](https://github.com/sephiroth74/purePDF) - A complete actionscript PDF library
+* [PureMVC/puremvc-as3-standard-framework](https://github.com/PureMVC/puremvc-as3-standard-framework) - PureMVC Standard Framework for ActionScript 3
 * [jozefchutka/YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
 * [adobe-flash/avmplus](https://github.com/adobe-flash/avmplus) - Source code for the Actionscript virtual machine
-* [PureMVC/puremvc-as3-standard-framework](https://github.com/PureMVC/puremvc-as3-standard-framework) - PureMVC Standard Framework for ActionScript 3
-* [biggerboat/navigator-as3](https://github.com/biggerboat/navigator-as3) - A tiny yet powerful library to deal with navigation and flow in your ActionScript projects
 * [away3d/away3d-examples-fp11](https://github.com/away3d/away3d-examples-fp11) - Actionscript examples for use with the Away3D engine for Flash Player 11
-* [MaxDidIt/firetype](https://github.com/MaxDidIt/firetype) - Actionscript 3 library to parse OpenType fonts and render them using Stage3D
 * [charlesbihis/actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - An ActionScript 3 library for interfacing with OAuth 2.0 services.
+* [biggerboat/navigator-as3](https://github.com/biggerboat/navigator-as3) - A tiny yet powerful library to deal with navigation and flow in your ActionScript projects
+* [MaxDidIt/firetype](https://github.com/MaxDidIt/firetype) - Actionscript 3 library to parse OpenType fonts and render them using Stage3D
 * [devboy/HydraP2P](https://github.com/devboy/HydraP2P) - HydraP2P is an ActionScript 3 library aiming to simplify the peer-to-peer API introduced in Flash Player 10.1
 * [destroytoday/DestroyFramework](https://github.com/destroytoday/DestroyFramework) - a framework of useful Actionscript classes
 * [AS3Commons/as3commons-collections](https://github.com/AS3Commons/as3commons-collections) - ActionScript Collections Framework
@@ -49,18 +49,18 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [hydrotik/QueueLoader](https://github.com/hydrotik/QueueLoader) - QueueLoader is an easy to use  Flash Actionscript (3.0) asset loading utility with a number of features.
 * [away3d/away3d-examples-broomstick](https://github.com/away3d/away3d-examples-broomstick) - Actionscript examples for use with the Away3D engine for Flash Player Incubator
 * [dorianroy/Soundcloud-AS3-API](https://github.com/dorianroy/Soundcloud-AS3-API) - Universal Soundcloud API wrapper for Flash, Flex and AIR projects, written in ActionScript 3.0. Please report any bugs in the Issues section.
+* [claus/fc64](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3
 * [patternpark/asunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
 * [marc-hughes/ObjectHandles](https://github.com/marc-hughes/ObjectHandles) - Actionscript / Flex 3 open source library for moving and resizing on screen objects.
-* [claus/fc64](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3
 * [rmhall/runway](https://github.com/rmhall/runway) - Runway is a set of ActionScript and JavaScript libraries for leveraging the LeapMotion input device
 * [drewbourne/asx](https://github.com/drewbourne/asx) - Extensions for core ActionScript Objects
 * [devon-o/Starling-Particle-Editor](https://github.com/devon-o/Starling-Particle-Editor) - Actionscript 3 Flash tool to create particle effect files (.pex) compatible for use with Starling and Sparrow frameworks.
-* [arthur-debert/printf-as3](https://github.com/arthur-debert/printf-as3) - A printf like facility for Actionscript, loosely inspired by Python's.
-* [CatalystApps/StarlingGAFPlayer](https://github.com/CatalystApps/StarlingGAFPlayer) - Starling GAF Player is an ActionScript 3 library that allows developer easily to play back animations in GAF format using Starling framework. GAF is a solution that allows porting animations created in Flash Pro into an open format GAF and play back them in different popular frameworks, such as Starling, Unity3d, Cocos2d-x and other.
 * [blooddy/blooddy_crypto](https://github.com/blooddy/blooddy_crypto) - ActionScript (AS3) library for processing binary data. This library contains MD5, SHA-1, SHA-2 ( SHA-224 и SHA-256 ), Base64, CRC32 algorithms, JSON encoder & decoder as well as PNG and JPEG encoders.
 * [benrhodes/graffiti-as3-drawing-lib](https://github.com/benrhodes/graffiti-as3-drawing-lib) - ActionScript 3 Bitmap Drawing Library
-* [jeremyruppel/as3-router](https://github.com/jeremyruppel/as3-router) - Simple hash-router for ActionScript 3
+* [arthur-debert/printf-as3](https://github.com/arthur-debert/printf-as3) - A printf like facility for Actionscript, loosely inspired by Python's.
+* [CatalystApps/StarlingGAFPlayer](https://github.com/CatalystApps/StarlingGAFPlayer) - Starling GAF Player is an ActionScript 3 library that allows developer easily to play back animations in GAF format using Starling framework. GAF is a solution that allows porting animations created in Flash Pro into an open format GAF and play back them in different popular frameworks, such as Starling, Unity3d, Cocos2d-x and other.
 * [zeh/key-action-binder-as3](https://github.com/zeh/key-action-binder-as3) - A keyboard/gamepad binder for easier game input in ActionScript
+* [jeremyruppel/as3-router](https://github.com/jeremyruppel/as3-router) - Simple hash-router for ActionScript 3
 * [sammyt/dawn](https://github.com/sammyt/dawn) - lightweight dependency injection for actionscript
 * [richardlord/Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
 * [joeonmars/CameraFocus](https://github.com/joeonmars/CameraFocus) - a 2D camera helper class for ActionScript 3.0 projects / Starling Framework
@@ -83,6 +83,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [PlayerIO/Facebook-Graph-As3](https://github.com/PlayerIO/Facebook-Graph-As3) - A thin Facebook Graph client in ActionScript 3 which closely mirrors the methods in the official Javascript Facebook SDK
 * [Gamua/Flox-AS3](https://github.com/Gamua/Flox-AS3) - The ActionScript 3 SDK for the Flox Game Backend
 * [childoftv/as3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - An Actionscript 3.0 package to read .xlsx Open XML Excel or Open Office spreadsheets
+* [ascorbic/socket-io-actionscript](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client
 * [stevewoolcock/AssetManager](https://github.com/stevewoolcock/AssetManager) - Asset management for ActionScript 3.0
 * [nathanhinish/AS3-IABLib](https://github.com/nathanhinish/AS3-IABLib) - An ActionScript 3 library for IAB specs. Includes the following features: VAST 2.0 Spec (http://www.iab.net/vast) for parsing VAST responses. VPAID Spec (http://www.iab.net/vpaid) for creating VPAID-compliant ads.
 * [kakenbok/ActionScript-DataProvider-Controls](https://github.com/kakenbok/ActionScript-DataProvider-Controls) - Library of standard user interface components
@@ -90,12 +91,11 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [martinkallman/collision-as3](https://github.com/martinkallman/collision-as3) - Collision detection library for ActionScript 3
 * [charlesbihis/actionscript-notification-engine](https://github.com/charlesbihis/actionscript-notification-engine) - A cross-platform notification engine built on top of the Flash platform.
 * [charlesbihis/actionscript-diff](https://github.com/charlesbihis/actionscript-diff) - An ActionScript 3 implementation of the Myer's diff algorithm.
-* [ascorbic/socket-io-actionscript](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client
+* [adobe/avmplus](https://github.com/adobe/avmplus) - Source code for the Actionscript virtual machine
 * [warrenseine/as3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - ActionScript 3 PSD Parser
 * [UnitZeroOne/AS3ATF](https://github.com/UnitZeroOne/AS3ATF) - ActionScript Library to read, write and inspect Adobe's Texture Format.
 * [NothingInteractive/tetragon](https://github.com/NothingInteractive/tetragon) - Tetragon is an Open Source cross-platform game engine used to develop games and applications for the web, desktop and mobile devices. It is written purely in ActionScript 3 and comfortably allows to write source code once and deploy builds to several different target platforms. Unlike most other Flash-based game engines and frameworks that allow you to develop a specific type of game or that provide a subset API to support game development, Tetragon provides a complete foundation with that any type of game can be developed, incl. resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and a lot more.
 * [cantrell/Reversi](https://github.com/cantrell/Reversi) - A simple Reversi game written in ActionScript. It's designed to run on any device that supports Flash/AIR, regardless of screen size. For instructions on building the Reversi projects, see the Reversi Wiki.
-* [adobe/avmplus](https://github.com/adobe/avmplus) - Source code for the Actionscript virtual machine
 * [shapedbyregret/actionscript-3-obfuscator](https://github.com/shapedbyregret/actionscript-3-obfuscator) - Python script that takes in a single .as file and makes it hard to decipher.
 * [ringodotnl/jiglibflash-core-fp11](https://github.com/ringodotnl/jiglibflash-core-fp11) - 3D physics engine open source actionscript (MIT)
 * [graysonlang/proscenium](https://github.com/graysonlang/proscenium) - Proscenium ActionScript Library
@@ -107,14 +107,14 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [swellee/LeUI](https://github.com/swellee/LeUI) - leui --an as3(actionscript 3.0) ui framework
 * [smakinson/Pusher-ActionScript-Library](https://github.com/smakinson/Pusher-ActionScript-Library) - An ActionScript version of the pusher library for binding to events, etc.
 * [sammyt/fussy](https://github.com/sammyt/fussy) - actionscript reflection query language
+* [Rokannon/Crossbridge-Recast-Navigation](https://github.com/Rokannon/Crossbridge-Recast-Navigation) - This project is a FlasCC port to ActionScript 3.0 of C++ navigation mesh library Recast Navigation by Mikko Mononen.
 * [rekomat/AS3-LocaleManager](https://github.com/rekomat/AS3-LocaleManager) - Basic localization support for ActionScript apps
 * [mikesoylu/fortia](https://github.com/mikesoylu/fortia) - a minimal 2D actionscript game library
 * [greensock/GreenSock-AS2](https://github.com/greensock/GreenSock-AS2) - Public repository for GreenSock's ActionScript 2 libraries like GSAP (TweenLite, TweenMax, etc.). For AS3, see the GreenSock-AS3 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com
+* [benrhodes/graffiti-as3-drawing-lib-touch](https://github.com/benrhodes/graffiti-as3-drawing-lib-touch) - ActionScript 3 Drawing library made for touch devices.
 * [yanbe/qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
 * [walpolea/NetGrouper](https://github.com/walpolea/NetGrouper) - A wrapper for Actionscript 3.0's NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus
 * [sshilko/jQuery-AS3-Webcam](https://github.com/sshilko/jQuery-AS3-Webcam) - jQuery wrapper for capturing web camera images written with ActionScript 3
-* [Rokannon/Crossbridge-Recast-Navigation](https://github.com/Rokannon/Crossbridge-Recast-Navigation) - This project is a FlasCC port to ActionScript 3.0 of C++ navigation mesh library Recast Navigation by Mikko Mononen.
-* [benrhodes/graffiti-as3-drawing-lib-touch](https://github.com/benrhodes/graffiti-as3-drawing-lib-touch) - ActionScript 3 Drawing library made for touch devices.
 * [spjwebster/as3base64](https://github.com/spjwebster/as3base64) - An ActionScript 3.0 library for encoding/decoding strings and objects to/from Base 64
 * [jeremyruppel/as3-operations](https://github.com/jeremyruppel/as3-operations) - Async operation contracts and helpers for ActionScript 3
 * [zefei/picmagick](https://github.com/zefei/picmagick) - A simple Flash (ActionScript) based photo editor
@@ -134,19 +134,20 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [evernote/evernote-sdk-as3](https://github.com/evernote/evernote-sdk-as3) - Evernote SDK for ActionScript
 * [ryanstewart/GpxAS3](https://github.com/ryanstewart/GpxAS3) - GPX Library for ActionScript 3
 * [MartyWallace/Sentinel](https://github.com/MartyWallace/Sentinel) - A modern ActionScript 3 game framework for developing games with Starling and Box2D.
+* [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
 * [aerys/monitor](https://github.com/aerys/monitor) - Lightweight customizable ActionScript 3.0 property monitor
 * [Taytay/CoThreadAS3](https://github.com/Taytay/CoThreadAS3) - Implements Cooperative "threads" in Actionscript that easily allow recursion.
 * [talltyler/ASTRID](https://github.com/talltyler/ASTRID) - An ActionScript framework to simply development of Applications
 * [sleep2death/sl2d-framework](https://github.com/sleep2death/sl2d-framework) - A actionscript 2d ui/game framework using new GPU acceleration API
 * [ringodotnl/jiglibflash-examples-fp11](https://github.com/ringodotnl/jiglibflash-examples-fp11) - Examples 3D physics engine open source actionscript (MIT)
 * [nidin/as3-image-library](https://github.com/nidin/as3-image-library) - Collection of Actionscript 3 image processing libraries
-* [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
 * [darronschall/FVNC](https://github.com/darronschall/FVNC) - FVNC is a VNC Client written in ActionScript 3 for Flash Player 9 and above.
 * [audreyt/as3gif](https://github.com/audreyt/as3gif) - AS3GIF lets you play and encode animated GIF's with ActionScript 3.
 * [ascorbic/clevrlib](https://github.com/ascorbic/clevrlib) - CLEVR Actionscript Library
 * [animoto/filmstrip](https://github.com/animoto/filmstrip) - Moses Gunesch's rendering library for ActionScript
 * [rimusdesign/FlexZMQ](https://github.com/rimusdesign/FlexZMQ) - Zero MQ binding for Flex and ActionScript
 * [QuinnStephens/ALPACA](https://github.com/QuinnStephens/ALPACA) - Actionscript LDU Point-And-Click Adventure game engine
+* [nosir/pixas-editor](https://github.com/nosir/pixas-editor) - ActionScript pixel isometric graphics editor
 * [mataspetrikas/radioclouds](https://github.com/mataspetrikas/radioclouds) - Social graph/radio based on soundcloud api. Written in ActionScript 3
 * [justinmclean/ActionScript-State-Machine](https://github.com/justinmclean/ActionScript-State-Machine) - State machine implemented in ActionScript. Optionally supports (using the decorator design pattern) history and event dispatching.
 * [dbrock/goplayer](https://github.com/dbrock/goplayer) - Modern, open-source video player written in ActionScript 3
@@ -160,16 +161,15 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [flupie/textanim](https://github.com/flupie/textanim) - The TextAnim is an open source code for dynamic text animation in Flash - ActionScript 3
 * [develar/miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout to ActionScript, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager that makes layout problems trivial. It is using String or API type-checked constraints to format the layout. MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
 * [cotejp/Metronome](https://github.com/cotejp/Metronome) - An ActionScript metronome library
+* [uhoh-itsmaciek/pegasus](https://github.com/uhoh-itsmaciek/pegasus) - An ActionScript 3 driver for PostgreSQL.
 * [tylerzhu/SpriteSheet](https://github.com/tylerzhu/SpriteSheet) - ActionScript 3.0 Sprite Sheet render engine
 * [potomak/sinatra_photo_booth](https://github.com/potomak/sinatra_photo_booth) - Sinatra Photo Booth is a simple open source application to save webcam snapshots using actionscript and sinatra.
 * [openzoom/zoomit-as3-sdk](https://github.com/openzoom/zoomit-as3-sdk) - Zoom.it ActionScript 3 SDK
-* [nosir/pixas-editor](https://github.com/nosir/pixas-editor) - ActionScript pixel isometric editor
 * [kyoji2/HanFont](https://github.com/kyoji2/HanFont) - A AIR app for Chinese Font Embeding in ActionScript
 * [johnlindquist/top-level-tools](https://github.com/johnlindquist/top-level-tools) - top-level tools for ActionScript 3
 * [jamestomasino/tomasino](https://github.com/jamestomasino/tomasino) - Library of ActionScript 3.0 Utility Classes
 * [goliatone/as3i18n](https://github.com/goliatone/as3i18n) - ActionScript 3 localization library
 * [chinchang/AS3-Motion-Tracker](https://github.com/chinchang/AS3-Motion-Tracker) - A simple webcam based motion tracker written in Actionscript 3.0
-* [uhoh-itsmaciek/pegasus](https://github.com/uhoh-itsmaciek/pegasus) - An ActionScript 3 driver for PostgreSQL.
 * [photonstorm/FlodXM](https://github.com/photonstorm/FlodXM) - ActionScript 3 (AS3) XM Tracker Player
 * [patternpark/as3reflection](https://github.com/patternpark/as3reflection) - A Reflection Library for ActionScript 3
 * [netoleal/ASF2](https://github.com/netoleal/ASF2) - ActionScript 3 Framework - Para desenvolvimento de sites em Flash
@@ -178,18 +178,18 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [hanamura/as3tf](https://github.com/hanamura/as3tf) - Various classes and functions for Flash/ActionScript programming.
 * [benFhala/EventController](https://github.com/benFhala/EventController) - Event Management made easy. An ActionScript 3.0 Library.
 * [unFocus/Backstage2D](https://github.com/unFocus/Backstage2D) - A 2D Engine for Stage3D (MoleHill) and Actionscript 3.0
-* [rakuten/MovieSheet](https://github.com/rakuten/MovieSheet) - ActionScript 3.0 Bitmap Render Engine
-* [honzabrecka/Screenshot](https://github.com/honzabrecka/Screenshot) - Screenshot is an ActionScript 3 util for integration testing of UI components. It perfectly works with FlexUnit testing flow and Flex Framework UI components.
 * [reyco1/as3facebookforgames](https://github.com/reyco1/as3facebookforgames) - An extension of the Facebook Actionscript API (packaged within the library as some changes needed to be made) which facilitates the process of authenticating and user log-in within your Facebook web games.
+* [honzabrecka/Screenshot](https://github.com/honzabrecka/Screenshot) - Screenshot is an ActionScript 3 util for integration testing of UI components. It perfectly works with FlexUnit testing flow and Flex Framework UI components.
+* [rakuten/MovieSheet](https://github.com/rakuten/MovieSheet) - ActionScript 3.0 Bitmap Render Engine
+* [hprose/hprose-as3](https://github.com/hprose/hprose-as3) - Hprose for ActionScript 3.0
 * [claus/as3utils](https://github.com/claus/as3utils) - Useful Actionscript 3 utility classes
 * [abe33/Abe-AS3-Lib](https://github.com/abe33/Abe-AS3-Lib) - A multi-purpose ActionScript Library.
-* [yahoo/yos-social-as3](https://github.com/yahoo/yos-social-as3) - Yahoo! Social SDK, an ActionScript 3 library for Flash and AIR
+* [yahoo/yos-social-as3](https://github.com/yahoo/yos-social-as3) - [archiving soon] Yahoo! Social SDK, an ActionScript 3 library for Flash and AIR
 * [wersling/LoaderQueue](https://github.com/wersling/LoaderQueue) - ActionScript 3多文件加载管理器
 * [krzysztof-o/expect.as](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3
 * [Khaledgarbaya/Instagras](https://github.com/Khaledgarbaya/Instagras) - Instagram Actionscript 3 Library
 * [kakenbok/Jakute-Styling-Engine](https://github.com/kakenbok/Jakute-Styling-Engine) - Jakute is a CSS framework for ActionScript/Flash.
 * [jcheng/as3abc](https://github.com/jcheng/as3abc) - Low level Actionscript 3 library to parse, create, modify and publish ABC (Actionscript Block Code) files
-* [hprose/hprose-as3](https://github.com/hprose/hprose-as3) - Hprose for ActionScript 3.0
 * [fminzoni/ActionBSON](https://github.com/fminzoni/ActionBSON) - A BSON implementation in ActionScript
 * [du-otl/AS3-WebVTT](https://github.com/du-otl/AS3-WebVTT) - AS3-WebVTT is a set of ActionScript 3.0 utility classes which enable the parsing and sorting of standard WebVTT (.vtt) files for video captioning.
 * [crosspop/spin.as](https://github.com/crosspop/spin.as) - A spinning activity indicator for Flash/ActionScript
@@ -199,23 +199,23 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [textmate/actionscript.tmbundle](https://github.com/textmate/actionscript.tmbundle) - TextMate support for ActionScript
 * [pixelami/fxg-as3-lib](https://github.com/pixelami/fxg-as3-lib) - A pure Actionscript 3 fxg rendering library (both runtime rendering and mxml supported)
 * [pbackx/ParallaxScrollingAS3](https://github.com/pbackx/ParallaxScrollingAS3) - A straightforward parallax scrolling demonstration in ActionScript 3, also shows embedding
+* [myflashlab/Firebase-ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE gives you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 * [mikechambers/ActionScript-3-Development-Task-Contests](https://github.com/mikechambers/ActionScript-3-Development-Task-Contests) - Repository for files and submissions from the ActionScript 3 Development Task Contests
 * [krange/AS3-Bootstrap](https://github.com/krange/AS3-Bootstrap) - Bootstrap utility for ActionScript 3 and Flex
+* [Khaledgarbaya/AS3-PayPal-API](https://github.com/Khaledgarbaya/AS3-PayPal-API) - Actionscript 3.0 PayPal API
 * [jadbox/AS3FP](https://github.com/jadbox/AS3FP) - This library is a collection of functional idioms for ActionScript 3 based on Haskell and Coffeescript.
 * [jacksonkr/actionscript](https://github.com/jacksonkr/actionscript) - A collection of as3 tools.
 * [hendrikmaus/AS3-Nimble](https://github.com/hendrikmaus/AS3-Nimble) - Nimble is an open source lightweight fluid layout class for use with ActionScript 3
+* [grossopa/dropbox-as3](https://github.com/grossopa/dropbox-as3) - An ActionScript 3 Library
 * [boyander/pacman](https://github.com/boyander/pacman) - Implementation of Pacman game in ActionScript 3 for Universitat Politécnica de Catalunya  in subject of Continguts Multimedia (November 2012 - January 2013)
 * [yourpalmark/facebook-air-api](https://github.com/yourpalmark/facebook-air-api) - AIR library that extends http://github.com/yourpalmark/facebook-actionscript-api. Originally imported from Adobe's official Facebook library, branched here to add additional functionality and support.
 * [turbosqel/AMFEditor](https://github.com/turbosqel/AMFEditor) - Complex , expandable application ( Flex , AIR , actionscript 3 ) to create , edit , load/save files , download , data in AMF3 (action message format) .
-* [spring-projects/spring-actionscript](https://github.com/spring-projects/spring-actionscript) - Spring Actionscript
 * [ryanbressler/Lichen](https://github.com/ryanbressler/Lichen) - Client side Network Viewer, Rectangular Heatmap and Visualization Template implemented in actionscript and javascript using the google visualization API.
 * [playtomic/gameapi-as3](https://github.com/playtomic/gameapi-as3) - ActionScript 3 API for the Playtomic API Server
 * [mesmotronic/as3-worker-untar](https://github.com/mesmotronic/as3-worker-untar) - ActionScript 3 Worker for extracting tar files in the background
 * [MattesGroeger/as3-parsley-example](https://github.com/MattesGroeger/as3-parsley-example) - Example that demonstrates short living Commands configured via ActionScript.
 * [lyokato/as3xmppclient](https://github.com/lyokato/as3xmppclient) - ActionScript 3.0 XMPP client library
-* [Khaledgarbaya/AS3-PayPal-API](https://github.com/Khaledgarbaya/AS3-PayPal-API) - Actionscript 3.0 PayPal API
 * [jrbedard/tricloud](https://github.com/jrbedard/tricloud) - :cloud: Online Photoshop clone built in ActionScript 3.0
-* [grossopa/dropbox-as3](https://github.com/grossopa/dropbox-as3) - An ActionScript 3 Library
 * [dbackeus/actionscript-prototypes](https://github.com/dbackeus/actionscript-prototypes) - Bunch of handy prototypes to make actionscript development easier. Inspired by ruby, rails and jQuery etc.
 * [CodeCatalyst/linkify-as3](https://github.com/CodeCatalyst/linkify-as3) - An extensible ActionScript 3.0 library that simplifies the task of identifying patterns in plain text (URLs, e-mail addresses, phone numbers, Twitter mentions, etc.) and converting them into clickable links.
 * [chadrem/amf_socket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for Actionscript (Flash).  The easy button for high performance network communication!
@@ -226,6 +226,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [tylerchesley/GeoNamesAS3](https://github.com/tylerchesley/GeoNamesAS3) - GeoNames api for actionscript 3.
 * [timknip/csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry for Actionscript 3
 * [theflashbum/URIManager](https://github.com/theflashbum/URIManager) - URI manager utility for ActionScript 3
+* [spring-projects/spring-actionscript](https://github.com/spring-projects/spring-actionscript) - Spring Actionscript
 * [richardlord/Four-ways-to-link-a-list](https://github.com/richardlord/Four-ways-to-link-a-list) - Performance test looking at four linked list architectures for Actionscript 3
 * [PureMVC/puremvc-as2-standard-framework](https://github.com/PureMVC/puremvc-as2-standard-framework) - PureMVC Standard Framework for ActionScript 2
 * [pperon/gliese-client-as3](https://github.com/pperon/gliese-client-as3) - An ActionScript 3 client API for the Gliese Framework.
@@ -240,7 +241,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [cosmindolha/ParticleDesigner](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3)
 * [chadrem/easy_lua](https://github.com/chadrem/easy_lua) - Easy Lua is the simplest way to add Lua scripts to your Adobe Flash or ActionScript project.
 * [andrewtraviss/AScalpel](https://github.com/andrewtraviss/AScalpel) - A lightweight framework for editing objects at runtime in Actionscript 3.0
+* [ahyswang/actionscript-publisher](https://github.com/ahyswang/actionscript-publisher) - This is a Flash app that allows live-streaming to EdgeCast via RTMP from a web browser.
 * [vincent-petithory/as3-mox](https://github.com/vincent-petithory/as3-mox) - Mox Toolkit : a base library of everyday functions and classes for Actionscript 3.0
+* [terrynoya/ASImageLib](https://github.com/terrynoya/ASImageLib) - bmp,png decoder for actionscript
+* [SuperMap/iClient-for-3D-FlashAPI](https://github.com/SuperMap/iClient-for-3D-FlashAPI) - SuperMap iClient  for 3D是一套基于 SuperMap UGC （Universal GIS Core）底层类库和 OpenGL 三维图形处理库的三维地理信息可视化客户端开发包。整个客户端包括Web三维GIS插件以及ActionScript API开发包。Web三维GIS插件是以ActiveX控件的形式嵌入到网页中，目前可以支持IE浏览器。用户利用SuperMap iClient  for 3D可以自定义三维可视化场景，能够快速地完成海量数据加载、数据浏览、图层控制，并且支持插件的自动更新等功能，因此开发者通过简洁易用的 ActionScript语言便能轻松打造三维可视化地理信息客户端。该客户端应用程序以 ActiveX 控件形式集成于 Web 网页中。
 * [soywiz/as3eval](https://github.com/soywiz/as3eval) - Simple expression evaluator for ActionScript 3
 * [simongregory/actionscript3-robotlegs.tmbundle](https://github.com/simongregory/actionscript3-robotlegs.tmbundle) - TextMate support for the Robotlegs ActionScript 3 framework.
 * [scribd/GAProxy](https://github.com/scribd/GAProxy) - A wrapper for Google Analytics in Actionscript
@@ -253,7 +257,6 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [OutOfTheVoid/AS3-8-bit-VM](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript
 * [nicolai86/as3.iCal](https://github.com/nicolai86/as3.iCal) - iCal parser written in ActionScript 3
 * [nariyu/as3twitterlib](https://github.com/nariyu/as3twitterlib) - Twitter API wrapper library for ActionScript 3.0
-* [myflashlab/Firebase-ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE gives you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 * [milkisevil/milkisevil-toolbox](https://github.com/milkisevil/milkisevil-toolbox) - A bunch of my custom classes, useful whilst developing in Actionscript 3
 * [ManfredKarrer/nucleo.io](https://github.com/ManfredKarrer/nucleo.io) - nucleo.io is an ActionScript / Flex Library containing a scheduler micro-framework for easily configuring tasks to be executed in sequence, parallel or based on their data dependencies.
 * [ken39arg/AIRToolKit](https://github.com/ken39arg/AIRToolKit) - command line applications using ActionScript (AIR)
@@ -261,6 +264,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [jonbuffington/flare_juicekit](https://github.com/jonbuffington/flare_juicekit) - A patched branch of the Flare data visualization ActionScript library for use in the JuiceKit project.
 * [jdeseno/dronelike](https://github.com/jdeseno/dronelike) - An office themed roguelike written in actionscript+flixel.
 * [houen/PokerFace](https://github.com/houen/PokerFace) - Actionscript 3 poker hand strength evaluation library and OO wrappers
+* [HendrixString/Hendrix-HttP-AiR](https://github.com/HendrixString/Hendrix-HttP-AiR) - a lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp
 * [foo123/as3-transitions-lib](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library for Actionscript 3
 * [digi604/As3-Mouse-Wheel-Fixer](https://github.com/digi604/As3-Mouse-Wheel-Fixer) - fixes actionscript mousewheel support
 * [dave-hansen/vpaidjs](https://github.com/dave-hansen/vpaidjs) - Liberating web video advertising from from Flash and ActionScript.
@@ -271,9 +275,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [alumican/alumican.as](https://github.com/alumican/alumican.as) - My private ActionScript libs, PixelBender, and so on.
 * [yadurajiv/Ray-Casting-Soft-Shadows](https://github.com/yadurajiv/Ray-Casting-Soft-Shadows) - ray casting and soft shadow example written in ActionScript
 * [theturtle32/RhinoAS3](https://github.com/theturtle32/RhinoAS3) - An ActionScript 3 port of Mozilla's Rhino JavaScript interpreter
-* [terrynoya/ASImageLib](https://github.com/terrynoya/ASImageLib) - bmp,png decoder for actionscript
 * [tangbin1101/fal](https://github.com/tangbin1101/fal) - Finalbug ActionScript Library
-* [SuperMap/iClient-for-3D-FlashAPI](https://github.com/SuperMap/iClient-for-3D-FlashAPI) - SuperMap iClient  for 3D是一套基于 SuperMap UGC （Universal GIS Core）底层类库和 OpenGL 三维图形处理库的三维地理信息可视化客户端开发包。整个客户端包括Web三维GIS插件以及ActionScript API开发包。Web三维GIS插件是以ActiveX控件的形式嵌入到网页中，目前可以支持IE浏览器。用户利用SuperMap iClient  for 3D可以自定义三维可视化场景，能够快速地完成海量数据加载、数据浏览、图层控制，并且支持插件的自动更新等功能，因此开发者通过简洁易用的 ActionScript语言便能轻松打造三维可视化地理信息客户端。该客户端应用程序以 ActiveX 控件形式集成于 Web 网页中。
 * [StephanPartzsch/as3-buttons](https://github.com/StephanPartzsch/as3-buttons) - library for the usage of timeline based button in ActionScript 3
 * [singuerinc/as3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript
 * [sangupta/as3utils](https://github.com/sangupta/as3utils) - Utility classes for ActionScript based projects.
@@ -288,11 +290,9 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [lukebayes/beansoncheeseontoast](https://github.com/lukebayes/beansoncheeseontoast) - It's like Ruby on Rails, but with ActionScript and beans and cheese and toast...
 * [ktbs/ktbs4as](https://github.com/ktbs/ktbs4as) - ActionScript client library for kTBS
 * [krilnon/as3lytro](https://github.com/krilnon/as3lytro) - An ActionScript library for all things Lytro.
-* [kitschpatrol/FlashSpan](https://github.com/kitschpatrol/FlashSpan) - An ActionScript 3 library for spanning and synchronizing flash content across multiple computers and displays.
 * [jfox015/FoxR](https://github.com/jfox015/FoxR) - Open Source ActionScript 3 Development Framework based on PureMVC
 * [hprose/hprose-as2](https://github.com/hprose/hprose-as2) - Hprose for ActionScript 2.0
 * [Hoten/as3unit](https://github.com/Hoten/as3unit) - A unit testing framework for ActionScript 3
-* [HendrixString/Hendrix-HttP-AiR](https://github.com/HendrixString/Hendrix-HttP-AiR) - a lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp
 * [hankpillow/arrange](https://github.com/hankpillow/arrange) - actionscript 3 lib for positioning objects.
 * [gasi/as3flickrlib](https://github.com/gasi/as3flickrlib) - ActionScript 3.0 API for Flickr
 * [evilkirin/guttershark](https://github.com/evilkirin/guttershark) - The Actionscript 3 Framework
@@ -326,11 +326,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [NicolasZanotti/BitmapAnimation](https://github.com/NicolasZanotti/BitmapAnimation) - ActionScript 3 class that renders a MovieClip or FLV to a sequence of bitmaps.
 * [nickcaballero/soundfx](https://github.com/nickcaballero/soundfx) - ActionScript Sound Effects Library
 * [mstade/buoy](https://github.com/mstade/buoy) - A small application framework for Adobe Flash. While it works well with Flex, there are no compile time bindings allowing Buoy to be used with pure actionscript applications as well. Buoy is still very much a work in progress and its APIs might change at any time, be aware!
+* [moly/Flash-Gorillas](https://github.com/moly/Flash-Gorillas) - An attempt at a near pixel perfect remake of Qbasic Gorillas in ActionScript 3.0
 * [mlepicki/oauth-as3](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3
 * [lyokato/as3oauth](https://github.com/lyokato/as3oauth) - ActionScript 3.0 OAuth Client Library
 * [lukebayes/asunit-legacy](https://github.com/lukebayes/asunit-legacy) - The ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
 * [lizardon/CSV4AS3](https://github.com/lizardon/CSV4AS3) - CSV library for Actionscript ported from Apache Commons CSV
 * [kristi/taikonome](https://github.com/kristi/taikonome) - Taikonome: A Taiko Metronome.  Taikonome  is a free online taiko metronome written in Flash / ActionScript 3.                                                                      Released under the AGPL3 open source license.
+* [kitschpatrol/FlashSpan](https://github.com/kitschpatrol/FlashSpan) - An ActionScript 3 library for spanning and synchronizing flash content across multiple computers and displays.
 * [Khaledgarbaya/action-script-3-graph-api](https://github.com/Khaledgarbaya/action-script-3-graph-api) - an updated version of the  https://code.google.com/p/facebook-actionscript-api/ to work with Facebook Graph API 2.0
 * [keronas/AS3_platformer](https://github.com/keronas/AS3_platformer) - 2d platformer in Actionscript 3
 * [kemsky/as3Query](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript
@@ -358,14 +360,12 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [BrightcoveOS/BrightAction](https://github.com/BrightcoveOS/BrightAction) - Brightcove Media API ActionScript SDK
 * [benbjohnson/serialkiller](https://github.com/benbjohnson/serialkiller) - ActionScript JSON & XML serialization library
 * [AllanBishop/Parallax-Scrolling](https://github.com/AllanBishop/Parallax-Scrolling) - A parallax scrolling engine for ActionScript 3.0
-* [ahyswang/actionscript-publisher](https://github.com/ahyswang/actionscript-publisher) - This is a Flash app that allows live-streaming to EdgeCast via RTMP from a web browser.
 * [aerys/nao-as3-api](https://github.com/aerys/nao-as3-api) - ActionScript 3.0 library to build applications connected to Aldebaran's NAO robot.
 * [zhangq0355/as3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
 * [Zae/AS3SudokuSolver](https://github.com/Zae/AS3SudokuSolver) - A SudokuSolver written in Actionscript 3
 * [XingCloud/GDP-ActionScript](https://github.com/XingCloud/GDP-ActionScript) - GDP ActionScript SDK
 * [woome/camera_upload](https://github.com/woome/camera_upload) - A simple actionscript uploader doing multipart form submission
 * [wayee/dida](https://github.com/wayee/dida) - Dida is a lightweight MVC Framwork for Actionscript 3.0.
-* [vapesolius/XMLSerializer](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript
 * [twalling/foursquare-as3](https://github.com/twalling/foursquare-as3) - Actionscript 3 API for Foursquare
 * [tsukajizo/Framingo](https://github.com/tsukajizo/Framingo) - This is a framework made with ActionScript 3.0 for developing prototype application.
 * [thegamestudio/tactics](https://github.com/thegamestudio/tactics) - Turn-based fantasy combat built with FlashPunk and Actionscript 3
@@ -386,10 +386,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [nexussays/git-as3](https://github.com/nexussays/git-as3) - A pure Actionscript implementation of git
 * [mraak/AS-Spreadsheet](https://github.com/mraak/AS-Spreadsheet) - ActionScript based spreadsheet component and calculation logic
 * [moredip/TickTock](https://github.com/moredip/TickTock) - silly little ActionScript stopwatch/profiler/timer/benchmarker
-* [moly/Flash-Gorillas](https://github.com/moly/Flash-Gorillas) - An attempt at a near pixel perfect remake of Qbasic Gorillas in ActionScript 3.0
 * [MMOld/Temple](https://github.com/MMOld/Temple) - Temple Library for ActionScript 3.0 by MediaMonks
 * [mimshwright/AbstractAS3](https://github.com/mimshwright/AbstractAS3) - A tiny library for mimicking Java-like abstract classes and method in ActionScript 3.0.
 * [lmgerhard/DynamicXMLParser](https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (actionscript 3).
+* [lindborg/Nautilida](https://github.com/lindborg/Nautilida) - ActionScript 3.0 platform based Game Framework. Created for high dynamic controls and extreme visual game designs.
 * [lancejpollard/tweener](https://github.com/lancejpollard/tweener) - A class for creating tweens in actionscript 2 and 3 - because there's infinity between 0 and 1. (Unofficial branch)
 * [kevhiggins/a-star_pathfinder](https://github.com/kevhiggins/a-star_pathfinder) - Actionscript 3 A* Pathfinding interface that can be implemented for easy pathfinding in tile based maps
 * [Kenshin/as-pagination](https://github.com/Kenshin/as-pagination) - Pagination Actionscript 3.0 Library
@@ -413,20 +413,25 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [craigshaw/Playbook-Utilities](https://github.com/craigshaw/Playbook-Utilities) - A library of Blackberry Playbook utilities for Actionscript
 * [collectivecolors/as3-org.puremvc.as3.utilities.loadup](https://github.com/collectivecolors/as3-org.puremvc.as3.utilities.loadup) - EXTERNAL - PureMVC (Standard) Loadup utility releases for use as Git submodules in  ActionScript or Flex applications.
 * [collectivecolors/as3-org.as3commons.reflect](https://github.com/collectivecolors/as3-org.as3commons.reflect) - EXTERNAL - as3-commons reflection API releases for use as Git submodules in ActionScript or  Flex applications.
+* [collectivecolors/as3-org.as3commons.lang](https://github.com/collectivecolors/as3-org.as3commons.lang) - EXTERNAL - as3-commons language component releases for use as Git submodules in  ActionScript or Flex applications.
 * [charlescapps/MarsLander](https://github.com/charlescapps/MarsLander) - Improvement on classic moon lander game, Actionscript 3.0
 * [cantrell/TweetCards](https://github.com/cantrell/TweetCards) - An ActionScript Twitter client that can compiled for and run on the iPhone or iPod touch.
+* [BowlerHatLLC/NextGenAS_LoanPaymentCalculator](https://github.com/BowlerHatLLC/NextGenAS_LoanPaymentCalculator) - Multiple examples of building a loan payment calculator widget using transpiled ActionScript and HTML
 * [away3d/away3dlite-examples-fp10](https://github.com/away3d/away3dlite-examples-fp10) - Actionscript examples for use with the Away3DLite engine for Flash Player 10
 * [aterris/that-cover-flow](https://github.com/aterris/that-cover-flow) - An XML powered Cover Flow flash application created with Actionscript 3
+* [asstrochris/AsStream](https://github.com/asstrochris/AsStream) - Simple serialization for actionscript. AsStream is meant to mimic the java xstream framework in many ways, but with a simpler twist
 * [alinakipoglu/Litespell-GameEngine](https://github.com/alinakipoglu/Litespell-GameEngine) - A Actionscript based GameEngine
 * [alinakipoglu/Actionscript-PathUtils](https://github.com/alinakipoglu/Actionscript-PathUtils) - A Path utility classes for working with quadratic, bezier and line sequences
 * [abiyasa/cannonml_as3](https://github.com/abiyasa/cannonml_as3) - keim's CannonML (shmup scripting language) implementation in Actionscript 3
 * [abdul/as3httpclient](https://github.com/abdul/as3httpclient) - HTTP client implementation in ActionScript 3.0.
 * [zeke/as3_image_tiler](https://github.com/zeke/as3_image_tiler) - Actionscript 3 class for loading an external image and tiling it.
+* [ZackPierce/fxg2as3](https://github.com/ZackPierce/fxg2as3) - Converting FXG markup into executable Actionscript 3 code
 * [yzh44yzh/as-to-bert](https://github.com/yzh44yzh/as-to-bert) - ActionScript to Binary Erlang Term (BERT) serialization and deserialization library
 * [yasusii/as3twisted](https://github.com/yasusii/as3twisted) - as3twisted is a partial port of Twisted event-driven networking engine to ActionScript 3
 * [wighawag/VirtualThread](https://github.com/wighawag/VirtualThread) - Green Thread implementation in actionscript
 * [wayee/elf](https://github.com/wayee/elf) - Elf is a ActionScript 3.0 ARPG 2D game engine.
 * [wayee/cc2d](https://github.com/wayee/cc2d) - A 2D Game Engine for ActionScript 3.0
+* [vapesolius/XMLSerializer](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript
 * [tylerbeck/Mainline---AS3](https://github.com/tylerbeck/Mainline---AS3) - ActionScript dependency injection framework
 * [tuxvader/SoundEngine](https://github.com/tuxvader/SoundEngine) - ActionScript Sound engine designed to use on Flash games
 * [tsclausing/Trigger](https://github.com/tsclausing/Trigger) - Commands and Callbacks for Flex & ActionScript 3 Applications.
@@ -453,6 +458,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [rjungemann/sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF
 * [RIAlizer/ActionMongo](https://github.com/RIAlizer/ActionMongo) - A MongoDB driver for ActionScript
 * [riadvice/Kalim](https://github.com/riadvice/Kalim) - Search API for Arabic in ActionScript 3
+* [resistdesign/Guidance](https://github.com/resistdesign/Guidance) - Mobile/Light Weight IoC ActionScript 3.0 Framework.
 * [redlinner/Drops](https://github.com/redlinner/Drops) - ActionScript 3 UI components
 * [rcr/iGemOttawa](https://github.com/rcr/iGemOttawa) - Synthetic biology puzzle game written in ActionScript 3 for the 2011 iGem Competition
 * [rafaelcordoba/cocktail](https://github.com/rafaelcordoba/cocktail) - Actionscript Full Stack Framework to serve your needs and make you happy.
@@ -467,6 +473,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [pixelbreaker/actionscript-library](https://github.com/pixelbreaker/actionscript-library) - My library of actionscript that I have built up over years of working in AS3
 * [pbking/facebook-actionscript-api](https://github.com/pbking/facebook-actionscript-api) - AS3 API for Facebook REST and OpenGraph services
 * [parappayo/Wyvern-Tail](https://github.com/parappayo/Wyvern-Tail) - Game engine with a Component-Entity architecture using Flash Starling in ActionScript 3, utility classes for Ogmo editor
+* [pablopareja/MG7Viewer](https://github.com/pablopareja/MG7Viewer) - Flex/Actionscript 3.0 GUI for visualization of metagenomics results
 * [pablopareja/BioinfoGuiElements](https://github.com/pablopareja/BioinfoGuiElements) - Flex/AIR/ActionScript 3.0 gui elements used by different projects
 * [outbounder/org.abn.as3](https://github.com/outbounder/org.abn.as3) - ActionScript 3 port of the ABN universal API lib sources
 * [oskitar/dffconnector](https://github.com/oskitar/dffconnector) - Actionscript 3.0 lib for drupal services
@@ -488,8 +495,10 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [MarcinMM/Dungeon-Dweller](https://github.com/MarcinMM/Dungeon-Dweller) - An inverse roguelike game written in Actionscript.
 * [manuelbua/as3-profiler](https://github.com/manuelbua/as3-profiler) - A simple, easy-to-use ActionScript 3 profiler
 * [lyokato/as3twittertext](https://github.com/lyokato/as3twittertext) - ActionScript 3.0 version of twitter-text library(extractor/auto-linker)
+* [lyokato/as3mixivoice](https://github.com/lyokato/as3mixivoice) - ActionScript 3.0 mixi voice client library
 * [Lukx/FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A Do-Whatever Matrix-Math class in Actionscript 3
 * [lorennorman/as3-base](https://github.com/lorennorman/as3-base) - First stab at a base Actionscript project with open source tools (Ruby, Rake, etc.)
+* [lindborg/Sepiida](https://github.com/lindborg/Sepiida) - ActionScript 3.0 center-stage dynamic Game Framework
 * [kusako/pygowave-as-client](https://github.com/kusako/pygowave-as-client) - Actionscript port of the PyGoWaveApi
 * [kristoferjoseph/AS3-Artsy-Fartsy.tmbundle](https://github.com/kristoferjoseph/AS3-Artsy-Fartsy.tmbundle) - Actionscript 3 bundle for creating art with code
 * [kingfo/as3utils](https://github.com/kingfo/as3utils) - actionscript 3 utils
@@ -506,11 +515,14 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [johnlindquist/flight-core](https://github.com/johnlindquist/flight-core) - Core library for ActionScript and MXML development, including Binding, Collections and several data types
 * [johncblandii/basecampas3](https://github.com/johncblandii/basecampas3) - An API to connect to Basecamp (by 37 Signals) with ActionScript 3.
 * [jfly/youtube-downloader](https://github.com/jfly/youtube-downloader) - A youtube id -> file url converter written in actionscript, with a javascript wrapper library.
+* [jcmellado/flashcam](https://github.com/jcmellado/flashcam) - Webcam video capture, from ActionScript to JavaScript
 * [jancassio/dragonfly](https://github.com/jancassio/dragonfly) - actionscript animation engine
+* [irpagnossin/AS3](https://github.com/irpagnossin/AS3) - Some useful codes for ActionScript 3
 * [iRail/iRail-AS3](https://github.com/iRail/iRail-AS3) - iRail ActionScript 3 wrapper
 * [iloveitaly/SWFCode](https://github.com/iloveitaly/SWFCode) - Actionscript Development Templates for XCode
 * [igstan/actionscript-cnp-validator](https://github.com/igstan/actionscript-cnp-validator) - CNP validator in ActionScript.
 * [headjump/action_enum](https://github.com/headjump/action_enum) - Fake enums for actionscript
+* [hayesmaker/AS3-Dices](https://github.com/hayesmaker/AS3-Dices) - Actionscript 3.0 Dice rolling animation using Stage3D, Away3D and Jiglib
 * [hankpillow/scale-to-fit](https://github.com/hankpillow/scale-to-fit) - small actionscript library which scales an object in order to fit another object's size.
 * [GunioRobot/AS3-Utilities](https://github.com/GunioRobot/AS3-Utilities) - A collection of development and language utilities for ActionScript 3
 * [GoCarrotArchive/carrot-as3](https://github.com/GoCarrotArchive/carrot-as3) - Carrot SDK for ActionScript 3.0
@@ -525,6 +537,7 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [flybird/AS3-Tools](https://github.com/flybird/AS3-Tools) - Some useful tools by ActionScript 3.0
 * [flsilva/as3coreaddendum](https://github.com/flsilva/as3coreaddendum) - AS3CoreAddendum is an architectural addendum to the core of the Actionscript 3.0 language.
 * [flashmonkey/operations-lib](https://github.com/flashmonkey/operations-lib) - asynchronous ops library - a merge of joe berkovitz's moccasin operations and those in the spring-actionscript lib
+* [flashextensions/DashAS3Library](https://github.com/flashextensions/DashAS3Library) - Common ActionScript 3 library classes and utilities
 * [factorylabs/orange-actionscript-video](https://github.com/factorylabs/orange-actionscript-video) - Project for building Flash video players using the Open Video Player framework
 * [Exey/moss](https://github.com/Exey/moss) - Kit for speedcoding on ActionScript/Adobe AIR
 * [dreamsocket/actionscript-as3for2](https://github.com/dreamsocket/actionscript-as3for2) - a framework for ActionScript 2 that wraps around the language to emulate ActionScript 3
@@ -547,10 +560,13 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [cityindex-attic/CIAPI.As](https://github.com/cityindex-attic/CIAPI.As) - Actionscript3 client libraries for the CityIndex Trading API, suitable for Flex/Flash/Actionscript based projects
 * [charad/as3](https://github.com/charad/as3) - ActionScript projects
 * [cedexis/radarflashclient](https://github.com/cedexis/radarflashclient) - Streaming Radar Client for Flash and ActionScript
-* [caubry/fused](https://github.com/caubry/fused) - ActionScript 3 Game created for the cyberpunk gamejam 2014
+* [cccaldas/as3-interpreter](https://github.com/cccaldas/as3-interpreter) - Actionscript 3.0 interpreter for mac osx terminal.
+* [bww/wgflash](https://github.com/bww/wgflash) - Transaction oriented animation for Actionscript / Flash
 * [buzzware/worm](https://github.com/buzzware/worm) - An ORM and SQL generation framework for ActionScript inspired by jQuery
 * [bomberstudios/bsapi](https://github.com/bomberstudios/bsapi) - A collection of ActionScript libraries I happen to use *quite* a lot
+* [bluef/kuching](https://github.com/bluef/kuching) - a lightweight XMPP library for Actionscript 3
 * [blockforest/stagexl-converter-pubrun](https://github.com/blockforest/stagexl-converter-pubrun) - Helps converting pure Actionscript to StageXL/Dart. 'pub run' Edition.
+* [bfolder/Milky](https://github.com/bfolder/Milky) - Actionscript 3 API kit for rememberthemilk.com / Remember the Milk
 * [betterMDS/dx-as3](https://github.com/betterMDS/dx-as3) - The ActionScript used for dx-media
 * [begriffs/jsobject](https://github.com/begriffs/jsobject) - Nicer JavaScript objects through ExternalInterface in ActionScript 3
 * [bbeaumont/Actiondown](https://github.com/bbeaumont/Actiondown) - Actionscript port of Javascript Showdown
@@ -561,28 +577,147 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [AlgorithmTeam/common-as3](https://github.com/AlgorithmTeam/common-as3) - ActionScript 3.0 common library.(This version does not update).
 * [alechill/as2flexlogger](https://github.com/alechill/as2flexlogger) - Actionscript 2.0 port of the Flex 3 logging API
 * [adrianlafond/ActionScript-utils](https://github.com/adrianlafond/ActionScript-utils) - Disbranded ActionScript frequently used in Disbranded projects.
+* [ZackPierce/GALIA](https://github.com/ZackPierce/GALIA) - Genetic Algorithm Library in Actionscript
+* [wonjohnchoi/minecraft](https://github.com/wonjohnchoi/minecraft) - Minecraft (Actionscript, flashpunk)
+* [whydna/Kontagent-API---ActionScript3-Wrapper](https://github.com/whydna/Kontagent-API---ActionScript3-Wrapper) - A AS3 wrapper for Kontagent's API
+* [whitered/ASTween](https://github.com/whitered/ASTween) - ActionScript 3.0 tween engine
+* [whitered/as-imap](https://github.com/whitered/as-imap) - ActionScript socket for IMAP protocol
+* [wagnerfrancisco/caelum-stella-flex](https://github.com/wagnerfrancisco/caelum-stella-flex) - Porte do Caelum Stella para Actionscript/Flex
+* [VincentToups/Toups-Actionscript-Library](https://github.com/VincentToups/Toups-Actionscript-Library) - see name
+* [user3bss/actionscript-menu](https://github.com/user3bss/actionscript-menu) - a AS3 only based menu
+* [tset/actionscript](https://github.com/tset/actionscript) - actionscript 3 resource
+* [thedevstop/asguard](https://github.com/thedevstop/asguard) - Simple code contract for ActionScript.
+* [thedesignpig/Custom-ActionScript-Classes](https://github.com/thedesignpig/Custom-ActionScript-Classes) - Custom ActionScript Classes
+* [sujitreddyg/as3googlecalendarlib](https://github.com/sujitreddyg/as3googlecalendarlib) - ActionScript 3 library for Google Calendar API
+* [som/ASTest](https://github.com/som/ASTest) - test prog on ActionScript
+* [skitsanos/as3-rest-client](https://github.com/skitsanos/as3-rest-client) - REST API Client for ActionScript 3
+* [simongregory/actionscript3-signals.tmbundle](https://github.com/simongregory/actionscript3-signals.tmbundle) - TextMate support for the ActionScript 3 Signals event system.
+* [shi11/4sq-As3-API](https://github.com/shi11/4sq-As3-API) - foursquare actionscript wrapper
+* [sebas77/PhotonDemo](https://github.com/sebas77/PhotonDemo) - Actionscript 3 Photon Cloud Demo
+* [scoumbourdis/PureMVC-ActionScript](https://github.com/scoumbourdis/PureMVC-ActionScript) - This is the improved version of the code example at: http://dev.tutsplus.com/tutorials/understanding-the-puremvc-open-source-framework--active-627
+* [schmudu/ActionScript-3-Library](https://github.com/schmudu/ActionScript-3-Library) - ActionScript Library files
+* [sangupta/as3urlshortener](https://github.com/sangupta/as3urlshortener) - ActionScript 3 URL Shortening Library
+* [sangupta/as3dribbble](https://github.com/sangupta/as3dribbble) - Dribbble client library for ActionScript
+* [ruffenman/carnival](https://github.com/ruffenman/carnival) - ActionScript 3.0 Framework
+* [rocodesign/GoogleCalendarLib](https://github.com/rocodesign/GoogleCalendarLib) - Actionscript library for google calendar
+* [rmatsikas/as-source](https://github.com/rmatsikas/as-source) - Various actionscriptings..
+* [riebschlager/actionscript](https://github.com/riebschlager/actionscript) - The816 - Actionscript Classes
+* [riadvice/ActiveAIRCord](https://github.com/riadvice/ActiveAIRCord) - Actionscript 3 ActiveRecord Implementation for AIR
+* [RadValentin/Fractal-Generator-ActionScript3](https://github.com/RadValentin/Fractal-Generator-ActionScript3) - Just a simple fractal generator I wrote in AS3 way back in college
+* [quentint/as3-WeatherBug-API](https://github.com/quentint/as3-WeatherBug-API) - Simple WeatherBug API for ActionScript 3
+* [pvwoods/ASLisp](https://github.com/pvwoods/ASLisp) - Micro-Lisp implementation in Actionscript
+* [pvalentim/Dorothy](https://github.com/pvalentim/Dorothy) - Actionscript 3 Website Framework
+* [pubnub/pubnub-actionscript](https://github.com/pubnub/pubnub-actionscript) - Awesome ActionScript 3 (Flash) SDK for Publish/Subscribe on PubNub Real-time Network - http://www.pubnub.com
+* [pshtif/Genome2D-ExamplesAS3](https://github.com/pshtif/Genome2D-ExamplesAS3) - ActionScript 3 Examples for Genome2D GPU framework.
+* [ProgDesigner/AsFramework](https://github.com/ProgDesigner/AsFramework) - ActionScript 3.0 Framework
+* [pochi/ASsample](https://github.com/pochi/ASsample) - ActionScriptのサンプル
+* [pizzaeater/flashformer](https://github.com/pizzaeater/flashformer) - Tiny ActionScript 3.0 library
+* [pictonomy/pixlib](https://github.com/pictonomy/pixlib) - Pixlib - Core Actionscript 3 framework
+* [pgallar/commons-as](https://github.com/pgallar/commons-as) - Flex Library for ActionScript Projects
+* [pedramp/Small-Event-Handler](https://github.com/pedramp/Small-Event-Handler) - Small Event Handler for ActionScript
+* [panicdragon/parallax.as](https://github.com/panicdragon/parallax.as) - Parallax Effect of ActionScript
+* [palkan/tb_utils](https://github.com/palkan/tb_utils) - ActionScript 3 library
+* [pablopareja/BioinfoXMLFlex](https://github.com/pablopareja/BioinfoXMLFlex) - Xml wrapper classes in Actionscript 3.0
+* [OwenRay/EasyDevelop](https://github.com/OwenRay/EasyDevelop) - Actionscript development help
+* [otakio/as_examples](https://github.com/otakio/as_examples) - examples for ActionScript 3.0
+* [oguzsan/MarchingSquareAS3](https://github.com/oguzsan/MarchingSquareAS3) - A marching squares implementation with Actionscript 3
+* [ogrman/twinkle](https://github.com/ogrman/twinkle) - A tweening library for Actionscript 3
+* [oaubert/tales4as](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript
+* [nrome/Pacman](https://github.com/nrome/Pacman) - Vector based pacman game built with Actionscript
+* [NordMike/gibberish-aes-as3](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
+* [nicksteele/Unity-ActionScript-Bridge](https://github.com/nicksteele/Unity-ActionScript-Bridge) - This explains the sisyphean task of getting Unity and AS3 to talk to each other in a roundabout manner.
+* [netojoaobatista/buscape-as](https://github.com/netojoaobatista/buscape-as) - Facilita a integração e agiliza o desenvolvimento das aplicações Actionscript usando a API BuscaPé
+* [neil-ca-moore/SATas](https://github.com/neil-ca-moore/SATas) - SAT solver written in Actionscript
+* [nbvghost/actionscript3-mvc](https://github.com/nbvghost/actionscript3-mvc) - ActionScript3 mvc 框架
+* [naokazuterada/AS3Util](https://github.com/naokazuterada/AS3Util) - [ActionScript] Personal AS3 libraries
+* [muhachev/as-promise](https://github.com/muhachev/as-promise) - ActionScript deferred/promise implementation
+* [mrinalwadhwa/as3_performance_tests](https://github.com/mrinalwadhwa/as3_performance_tests) - actionscript performance tests
+* [mkulak/ebon-as](https://github.com/mkulak/ebon-as) - Actionscript 3 implementation of EBON format
+* [miriti/Flinjin](https://github.com/miriti/Flinjin) - ActionScript 3.0 raster game engine
+* [Mignari/mignari-core](https://github.com/Mignari/mignari-core) - An ActionScript library.
+* [michaelavila/asynchrony](https://github.com/michaelavila/asynchrony) - Simplifies your asynchronous ActionScript code
+* [meekgeek/herewestart](https://github.com/meekgeek/herewestart) - Skeleton for actionscript projects
+* [mateo-kozomara/actionscript-uuid](https://github.com/mateo-kozomara/actionscript-uuid) - Automatically exported from code.google.com/p/actionscript-uuid
+* [marioosh-net/flash](https://github.com/marioosh-net/flash) - flash / actionscript / flex / air
+* [marcelolfilho/facebook-actionscript-api](https://github.com/marcelolfilho/facebook-actionscript-api) - Automatically exported from code.google.com/p/facebook-actionscript-api
+* [ludicast/HailToTheMayor](https://github.com/ludicast/HailToTheMayor) - Actionscript Library
+* [ludicast/asbert](https://github.com/ludicast/asbert) - Actionscript to Bert Mapper
+* [liy/AirCapsule-AS-Library](https://github.com/liy/AirCapsule-AS-Library) - ActionScript Library for AirCapsule
+* [levantulee/ActionScript-Project](https://github.com/levantulee/ActionScript-Project) - AS3 Demos and things...
+* [larryhou/larrio](https://github.com/larryhou/larrio) - Actionscript 3.0 layout and scrolling framework
+* [ktbs/ktbs4as-demo](https://github.com/ktbs/ktbs4as-demo) - Demo applications for the ActionScript binding
+* [k-lock/ActionScript](https://github.com/k-lock/ActionScript) - Actionscript Library Packages
+* [kemsky/RObject](https://github.com/kemsky/RObject) - Fast reflection for ActionScript
+* [jlindsay/Flash-Ant-Script](https://github.com/jlindsay/Flash-Ant-Script) - Generic Ant script to compile actionscript
+* [jeremy-green/actionscript-browser](https://github.com/jeremy-green/actionscript-browser) - A group of classes that mimics some javascript functionality using the externalInterface
+* [jbaudanza/as-sqs](https://github.com/jbaudanza/as-sqs) - Amazon SQS bindings for ActionScript
+* [interactivenyc/actionscript-energy](https://github.com/interactivenyc/actionscript-energy) - Actionscript Energy
+* [iflashlord/ToolTip-ActionScript3](https://github.com/iflashlord/ToolTip-ActionScript3) - Simple ToolTip Class
+* [hydna/as-hydna](https://github.com/hydna/as-hydna) - Actionscript 3 bindings for Hydna
+* [htmldrum/JRMASScripts](https://github.com/htmldrum/JRMASScripts) - Oooooh, ActionScript. You so silly.
+* [hrundik/fScheme](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript
+* [graysonlang/ascorelib](https://github.com/graysonlang/ascorelib) - ActionScript Core Library
+* [goodm/Strategy-Game](https://github.com/goodm/Strategy-Game) - ActionScript 3.0 Strategy Game - classes only
+* [githubsdk/bitmapdata-scale9](https://github.com/githubsdk/bitmapdata-scale9) - Actionscript Bitmapdata Scale9
+* [ghthor/wcl.as](https://github.com/ghthor/wcl.as) - My ActionScript 3 Class Library
+* [gfazioli/Undolibrary](https://github.com/gfazioli/Undolibrary) - Adobe Flash ActionScript Library
+* [gamestamper/GameStamper-actionscript-sdk](https://github.com/gamestamper/GameStamper-actionscript-sdk) - ActionScript SDK for the GameStamper API
+* [FlaPS/actionscriptdatetimelibrary](https://github.com/FlaPS/actionscriptdatetimelibrary) - Automatically exported from code.google.com/p/actionscriptdatetimelibrary
+* [ferf/aws-dynamodb-actionscript](https://github.com/ferf/aws-dynamodb-actionscript) - An actionscript library for accessing Amazon's AWS DynamoDB
+* [felipi/Night-Sunrise](https://github.com/felipi/Night-Sunrise) - Actionscript 3 game project.
+* [eyepaq/insteon-as3](https://github.com/eyepaq/insteon-as3) - ActionScript Insteon code
+* [erilyth/GetMeOut-Actionscript](https://github.com/erilyth/GetMeOut-Actionscript) - A simple 2D mario style platformer made with actionscript. Currently there are 6 levels and more will be added soon.
+* [eneo5541/mudEngine](https://github.com/eneo5541/mudEngine) - A rudimentary MUD engine using ActionScript
+* [ejdiezfraile/Primes](https://github.com/ejdiezfraile/Primes) - Find the 10001st prime (ActionScript)
+* [ederlima/TreeView](https://github.com/ederlima/TreeView) - An ActionScript 3 custom TreeView
+* [dreamsocket/actionscript-rules_engine](https://github.com/dreamsocket/actionscript-rules_engine) - An decision engine for generic rules
+* [dreamsocket/actionscript-p2p_messaging](https://github.com/dreamsocket/actionscript-p2p_messaging) - A simple messaging framework for doing P2P in Flash
+* [dimalev/picocontainer](https://github.com/dimalev/picocontainer) - PicoContainer implementation for ActionScript 3.0
+* [DigitalPrimates/GuiceAS3](https://github.com/DigitalPrimates/GuiceAS3) - ActionScript Guice Port
+* [dguyon/ActionScript-FriendFeed](https://github.com/dguyon/ActionScript-FriendFeed) - ActionScript FriendFeed widget
+* [devxoul/as3id3lib](https://github.com/devxoul/as3id3lib) - ActionScript 3.0 id3 library.
+* [derekdon/ActionScript-Flex](https://github.com/derekdon/ActionScript-Flex) - Select AS3/AS2 classes and Flex MXML.
+* [dennisosimon/AStar](https://github.com/dennisosimon/AStar) - AStar written in Actionscript 3
+* [degdeg/as3socket](https://github.com/degdeg/as3socket) - ActionScript 3 Socket Server
+* [dbrock/knock.as](https://github.com/dbrock/knock.as) - Lightweight ActionScript 3 testing
+* [dahlbergbob/Sequence](https://github.com/dahlbergbob/Sequence) - An ActionScript Sequence
+* [codeengine/Manuka](https://github.com/codeengine/Manuka) - Forrst ActionScript Library
+* [codecollision/Window-Interface](https://github.com/codecollision/Window-Interface) - Actionscript 3.0 window interface system
+* [cleversoap/as3-airbrake](https://github.com/cleversoap/as3-airbrake) - Actionscript 3 Airbrake Utility
+* [choppingblock/actionscript-chop-tmbundle](https://github.com/choppingblock/actionscript-chop-tmbundle) - Collection of useful ActionScript 3 snippets and templates for studio and student use.
+* [chocolat/actionscript.truffle](https://github.com/chocolat/actionscript.truffle) - Automatically generated. Submit improvements to the tmbundle:
+* [cardin/ConFlg](https://github.com/cardin/ConFlg) - Actionscript Run-time Console
+* [canab/action-lib](https://github.com/canab/action-lib) - Common actionscript library
+* [brucelane/Resolume-ActionScript-Patches](https://github.com/brucelane/Resolume-ActionScript-Patches) - Resolume Avenue 3 SWFs
+* [BrianMehrman/PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - ActionScript 3d Panoramic Viewer
+* [blockforest/rockdot-actionscript](https://github.com/blockforest/rockdot-actionscript) - Pure Actionscript framework. Write once, run anywhere architecture.
+* [blackberryoctopus/Actionscript-Swf-Loading-Experiments](https://github.com/blackberryoctopus/Actionscript-Swf-Loading-Experiments) - Actionscript Manipulations of the ByteArray representations of a SWF
+* [Birikini/AS2GameLib](https://github.com/Birikini/AS2GameLib) - Actionscript 2 Game Library
+* [begininend/as3mapper](https://github.com/begininend/as3mapper) - actionscript data mapping library
+* [Bee-Cave-Games/facebook-actionscript-api](https://github.com/Bee-Cave-Games/facebook-actionscript-api) - Adobe ActionScript 3 SDK for Facebook Platform
+* [bazmul25/Sequencer](https://github.com/bazmul25/Sequencer) - Audio Sequencer - Actionscript
+* [axldns/SampleSlots](https://github.com/axldns/SampleSlots) - sample actionscript project (web + mobile)
+* [arthwood/artAs](https://github.com/arthwood/artAs) - my ActionScript library
+* [arne-schroppe/as3-bool](https://github.com/arne-schroppe/as3-bool) - Smalltalk-like Booleans for ActionScript 3
+* [AlwynW/Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects
+* [alinakipoglu/ASProcedural](https://github.com/alinakipoglu/ASProcedural) - An Actionscript implementation of CocoaProcedural
+* [AlexeyOleynick/MatchTwoMinigame-ActionScript-TDD](https://github.com/AlexeyOleynick/MatchTwoMinigame-ActionScript-TDD) - Sample application to show TDD implemetation in Actionscript3
+* [alexandrratush/travis-CI-actionscript3-demo](https://github.com/alexandrratush/travis-CI-actionscript3-demo) - Travis-CI ActionScript 3 demo project
+* [adjohnson916/actionscript-async](https://github.com/adjohnson916/actionscript-async) - Async utilities for ActionScript.
+* [abdul/bloglines-actionscript-api](https://github.com/abdul/bloglines-actionscript-api) - Bloglines Actionscript API
+* [5468sun/T-TunSun](https://github.com/5468sun/T-TunSun) - My ActionScript libs
 * [zfoley/Circle-Line-Collision-Detection](https://github.com/zfoley/Circle-Line-Collision-Detection) - Actionscript 3. Find collision between a circle and a line.
 * [zfoley/AABB-Collision-Detection](https://github.com/zfoley/AABB-Collision-Detection) - Aligned Axis Bounding Box Collision Detection (AABB) for Actionscript 3
-* [ZackPierce/GALIA](https://github.com/ZackPierce/GALIA) - Genetic Algorithm Library in Actionscript
 * [yiwang/iv](https://github.com/yiwang/iv) - Yi Wang, Luhua Lai, Qi Ouyang, "Visualization System of Biochemical Network Dynamics." Computers and applied chemistry, 26(4):385-389, 2009. (Main technology used: ActionScript)
 * [xxtea/xxtea-as3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
 * [XavierGimenez/flex-shirt-editor](https://github.com/XavierGimenez/flex-shirt-editor) - Awesome t-shirt editor made in Flex/Actionscript/Parsley/SVG
-* [wonjohnchoi/minecraft](https://github.com/wonjohnchoi/minecraft) - Minecraft (Actionscript, flashpunk)
-* [whydna/Kontagent-API---ActionScript3-Wrapper](https://github.com/whydna/Kontagent-API---ActionScript3-Wrapper) - A AS3 wrapper for Kontagent's API
 * [whitered/Signaller](https://github.com/whitered/Signaller) - ActionScript signals implementation with restricted rights for dispatching
 * [whitered/Kote](https://github.com/whitered/Kote) - Kote is a fast and lightweight MVC framework for ActionScript 3 that brings together the best of PureMVC and as3-signals
-* [whitered/ASTween](https://github.com/whitered/ASTween) - ActionScript 3.0 tween engine
-* [whitered/as-imap](https://github.com/whitered/as-imap) - ActionScript socket for IMAP protocol
 * [weimingtom/metamorphose](https://github.com/weimingtom/metamorphose) - Porting jill (Java Implementation of Lua Language, jillcode) to ActionScript 3
-* [webinista/SWFLocalStorage](https://github.com/webinista/SWFLocalStorage) - An ActionScript retrofit of LocalStorage. A work in progress. Designed to add support to browsers that lack it.
-* [wagnerfrancisco/caelum-stella-flex](https://github.com/wagnerfrancisco/caelum-stella-flex) - Porte do Caelum Stella para Actionscript/Flex
 * [vylgin/SlotMachine](https://github.com/vylgin/SlotMachine) - Тестовое задание, создание игры на чистом actionscript.
-* [VincentToups/Toups-Actionscript-Library](https://github.com/VincentToups/Toups-Actionscript-Library) - see name
 * [vikrambhatla/AS3-Bulk-Loader](https://github.com/vikrambhatla/AS3-Bulk-Loader) - It's an actionscript 3 based bulk loader which has support for loading data (XML, amf) , assets(images, swf) and integrated support for facebook library.
-* [user3bss/actionscript-menu](https://github.com/user3bss/actionscript-menu) - a AS3 only based menu
 * [tvalentius/AS3GameUtil](https://github.com/tvalentius/AS3GameUtil) - Collection of utility class for game development using ActionScript 3.0
 * [tshelburne/hoarder-as3](https://github.com/tshelburne/hoarder-as3) - Form management tool for ActionScript 3.
-* [tset/actionscript](https://github.com/tset/actionscript) - actionscript 3 resource
 * [trammell/vz](https://github.com/trammell/vz) - Virtual Zoo example - ActionScript 3.0
 * [Tomyail/asds](https://github.com/Tomyail/asds) - Data Structures & Other Objects Using ActionScript 3
 * [tom-wr/pyroshapes](https://github.com/tom-wr/pyroshapes) - A physics puzzle game built using ActionScript and Box2D AS3
@@ -591,149 +726,77 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [thijstriemstra/Pair](https://github.com/thijstriemstra/Pair) - Pair is a collection of Python standard library classes that were ported to Actionscript 3.
 * [thijstriemstra/echo-as3](https://github.com/thijstriemstra/echo-as3) - Tools to create multi-user Actionscript applications.
 * [thijstriemstra/cabin](https://github.com/thijstriemstra/cabin) - UI component library for Actionscript 3.
-* [thedevstop/asguard](https://github.com/thedevstop/asguard) - Simple code contract for ActionScript.
-* [thedesignpig/Custom-ActionScript-Classes](https://github.com/thedesignpig/Custom-ActionScript-Classes) - Custom ActionScript Classes
 * [thdtjsdn/josht.org](https://github.com/thdtjsdn/josht.org) - Various ActionScript 3 utility classes and functions created and used by Josh Tynjala
 * [tekool/puremvc-flash-modules-and-pipes](https://github.com/tekool/puremvc-flash-modules-and-pipes) - PureMVC Flash Modules And Pipes demo for ActionScript 3 port
 * [TeamFDT/SWFBridgeCore](https://github.com/TeamFDT/SWFBridgeCore) - FDT’s SWFBridge is a platform that allows developers to use Actionscript & Flex to create new features and to extend FDT's existing features.
 * [sweetnhappy/mxPhotoOrganizer](https://github.com/sweetnhappy/mxPhotoOrganizer) - Flex (Adobe AIR) ActionScript Photo Library App (academic term project)
-* [sujitreddyg/as3googlecalendarlib](https://github.com/sujitreddyg/as3googlecalendarlib) - ActionScript 3 library for Google Calendar API
 * [StuartCoope/PeaHead](https://github.com/StuartCoope/PeaHead) - Personal project messing about with Actionscript. A none too serious flash game
 * [stannesi/astro-panic](https://github.com/stannesi/astro-panic) - .: a mini flash space shooting game written with ActionScript :.
 * [st15/Hangman](https://github.com/st15/Hangman) - Word game for mobile devices built using ActionScript 3, Adobe AIR, Starling and Feathers.
 * [Srirangan/flex-choropleth-map-component](https://github.com/Srirangan/flex-choropleth-map-component) - An old, unmaintained choropleth map component built with Adobe Flex / ActionScript
 * [spoto/Julia-flash-interface](https://github.com/spoto/Julia-flash-interface) - A Flex/ActionScript interface to the Julia static analyzer
-* [som/ASTest](https://github.com/som/ASTest) - test prog on ActionScript
 * [smebberson/RedBee-AS3](https://github.com/smebberson/RedBee-AS3) - An ActionScript (AS3) library for the RedBee RFID Reader
 * [SlevinBE/Springas-subviewcontext](https://github.com/SlevinBE/Springas-subviewcontext) - An extension for Spring Actionscript 1 which enables you to create a context for a subview of your application.
 * [sksizer/Flex-Miscellania](https://github.com/sksizer/Flex-Miscellania) - Miscellaneous Flex and Actionscript that doesn't yet have a home.
-* [skitsanos/as3-rest-client](https://github.com/skitsanos/as3-rest-client) - REST API Client for ActionScript 3
-* [simongregory/actionscript3-signals.tmbundle](https://github.com/simongregory/actionscript3-signals.tmbundle) - TextMate support for the ActionScript 3 Signals event system.
 * [shyndman/ActionStep](https://github.com/shyndman/ActionStep) - An OpenStep implementation in ActionScript 2.0. Long dead. Putting it up for posterity.
-* [shi11/4sq-As3-API](https://github.com/shi11/4sq-As3-API) - foursquare actionscript wrapper
 * [ser1zw/MIL](https://github.com/ser1zw/MIL) - A MIL language VM and interpreter written in ActionScript
-* [sebas77/PhotonDemo](https://github.com/sebas77/PhotonDemo) - Actionscript 3 Photon Cloud Demo
 * [scriptwerx/Mustache.as](https://github.com/scriptwerx/Mustache.as) - Logic-less {{mustache}} templates with ActionScript 3.0
-* [scoumbourdis/PureMVC-ActionScript](https://github.com/scoumbourdis/PureMVC-ActionScript) - This is the improved version of the code example at: http://dev.tutsplus.com/tutorials/understanding-the-puremvc-open-source-framework--active-627
-* [schmudu/ActionScript-3-Library](https://github.com/schmudu/ActionScript-3-Library) - ActionScript Library files
-* [sangupta/as3urlshortener](https://github.com/sangupta/as3urlshortener) - ActionScript 3 URL Shortening Library
-* [sangupta/as3dribbble](https://github.com/sangupta/as3dribbble) - Dribbble client library for ActionScript
 * [ryankachik/WordsterSolver](https://github.com/ryankachik/WordsterSolver) - Loops through a dictionary file to find the largest words possible using the characters input by the user. Developed in Actionscript for deployment on Android devices
-* [ruffenman/carnival](https://github.com/ruffenman/carnival) - ActionScript 3.0 Framework
 * [RomainThery/TransformTool](https://github.com/RomainThery/TransformTool) - The Transform Tool is an ActionScript-based component that provides visual controls for manipulating the shape and position of display objects on the screen.
-* [rocodesign/GoogleCalendarLib](https://github.com/rocodesign/GoogleCalendarLib) - Actionscript library for google calendar
 * [robertabramski/cyntaxic](https://github.com/robertabramski/cyntaxic) - An MVC ActionScript framework for the programming middle class.
-* [rmatsikas/as-source](https://github.com/rmatsikas/as-source) - Various actionscriptings..
-* [riebschlager/actionscript](https://github.com/riebschlager/actionscript) - The816 - Actionscript Classes
 * [Richard-Walton/TwoWayLocalConnection](https://github.com/Richard-Walton/TwoWayLocalConnection) - Two way, asynchronous, LocalConnection class which is not subject to the 40KB message size limit imposed by the standard actionscript LocalConnection class
-* [riadvice/ActiveAIRCord](https://github.com/riadvice/ActiveAIRCord) - Actionscript 3 ActiveRecord Implementation for AIR
 * [rholzer/qag_as](https://github.com/rholzer/qag_as) - Primary code base for all actionscript
 * [raphydaphy/LightStage](https://github.com/raphydaphy/LightStage) - LightStage is a strategy game programmed in actionscript 3 where players position mirrors, prisms and more to deflect light into globes, which fills them up.
 * [raohmaru/StarOrchestra](https://github.com/raohmaru/StarOrchestra) - An ActionScript 3 game for touch based devices
 * [rafaelrinaldi/week-days](https://github.com/rafaelrinaldi/week-days) - Useful library to work with week days in ActionScript.
-* [RadValentin/Fractal-Generator-ActionScript3](https://github.com/RadValentin/Fractal-Generator-ActionScript3) - Just a simple fractal generator I wrote in AS3 way back in college
-* [quentint/as3-WeatherBug-API](https://github.com/quentint/as3-WeatherBug-API) - Simple WeatherBug API for ActionScript 3
 * [qualitycode/gedcomConverter](https://github.com/qualitycode/gedcomConverter) - Will convert GEDCOM genealogy files to JASON and XML using Javascript and Actionscript
 * [pzUH/FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - An implementation of Fuzzy State Machine (FuSM) in ActionScript 3.0 for AI bot/agent in a video games
 * [pvwoods/VisuMap-Editor](https://github.com/pvwoods/VisuMap-Editor) - a no-tile map editor written in Actionscript 3
-* [pvwoods/ASLisp](https://github.com/pvwoods/ASLisp) - Micro-Lisp implementation in Actionscript
-* [pvalentim/Dorothy](https://github.com/pvalentim/Dorothy) - Actionscript 3 Website Framework
-* [pubnub/pubnub-actionscript](https://github.com/pubnub/pubnub-actionscript) - Awesome ActionScript 3 (Flash) SDK for Publish/Subscribe on PubNub Real-time Network - http://www.pubnub.com
-* [pshtif/Genome2D-ExamplesAS3](https://github.com/pshtif/Genome2D-ExamplesAS3) - ActionScript 3 Examples for Genome2D GPU framework.
-* [ProgDesigner/AsFramework](https://github.com/ProgDesigner/AsFramework) - ActionScript 3.0 Framework
-* [pochi/ASsample](https://github.com/pochi/ASsample) - ActionScriptのサンプル
 * [pluglimited/Nudge](https://github.com/pluglimited/Nudge) - Actionscript framework to serialize objects as XML
-* [pizzaeater/flashformer](https://github.com/pizzaeater/flashformer) - Tiny ActionScript 3.0 library
 * [pipapo/as_external_logger](https://github.com/pipapo/as_external_logger) - Simple logging facility to enable javascript console logging from actionscript
-* [pictonomy/pixlib](https://github.com/pictonomy/pixlib) - Pixlib - Core Actionscript 3 framework
-* [pgallar/commons-as](https://github.com/pgallar/commons-as) - Flex Library for ActionScript Projects
 * [peterlindkvist/as2-xml-parser](https://github.com/peterlindkvist/as2-xml-parser) - A XML parser for actionscript 2 to be able to read xml files as a dom tree
 * [petebrowne/spectrum](https://github.com/petebrowne/spectrum) - A Behavior Driven Development framework for Actionscript
-* [pedramp/Small-Event-Handler](https://github.com/pedramp/Small-Event-Handler) - Small Event Handler for ActionScript
 * [pauliusuza/as3lib](https://github.com/pauliusuza/as3lib) - Library of Actionscript classes that I wrote.
-* [panicdragon/parallax.as](https://github.com/panicdragon/parallax.as) - Parallax Effect of ActionScript
-* [palkan/tb_utils](https://github.com/palkan/tb_utils) - ActionScript 3 library
-* [pablopareja/BioinfoXMLFlex](https://github.com/pablopareja/BioinfoXMLFlex) - Xml wrapper classes in Actionscript 3.0
-* [OwenRay/EasyDevelop](https://github.com/OwenRay/EasyDevelop) - Actionscript development help
 * [oth-aw/materia-prima](https://github.com/oth-aw/materia-prima) - low-barrier open source graphical user interface, developed by University of Amberg-Weiden. You need actionscript skills and Adobe Flash knowledge.
-* [otakio/as_examples](https://github.com/otakio/as_examples) - examples for ActionScript 3.0
 * [osher/should.as](https://github.com/osher/should.as) - Porting of Should.js to ActionScript 3
-* [oguzsan/MarchingSquareAS3](https://github.com/oguzsan/MarchingSquareAS3) - A marching squares implementation with Actionscript 3
-* [ogrman/twinkle](https://github.com/ogrman/twinkle) - A tweening library for Actionscript 3
-* [oaubert/tales4as](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript
-* [nrome/Pacman](https://github.com/nrome/Pacman) - Vector based pacman game built with Actionscript
 * [nplusone/as3.0-lib-for-progression](https://github.com/nplusone/as3.0-lib-for-progression) - actionscript 3.0 library for progression by non-standardworld, Inc.
 * [notacompany/001_Kongregate-API](https://github.com/notacompany/001_Kongregate-API) - An easy way to connect to- and use the Kongregate API for ActionScript 3.0!
-* [NordMike/gibberish-aes-as3](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
 * [nodename/Hilbert](https://github.com/nodename/Hilbert) - ActionScript port of Hilbert curve from cortesi/scurve
-* [nicksteele/Unity-ActionScript-Bridge](https://github.com/nicksteele/Unity-ActionScript-Bridge) - This explains the sisyphean task of getting Unity and AS3 to talk to each other in a roundabout manner.
 * [netojoaobatista/elektra](https://github.com/netojoaobatista/elektra) - Exemplo de padrões de design e arquitetura em Actionscript 3
-* [netojoaobatista/buscape-as](https://github.com/netojoaobatista/buscape-as) - Facilita a integração e agiliza o desenvolvimento das aplicações Actionscript usando a API BuscaPé
-* [neil-ca-moore/SATas](https://github.com/neil-ca-moore/SATas) - SAT solver written in Actionscript
-* [nbvghost/actionscript3-mvc](https://github.com/nbvghost/actionscript3-mvc) - ActionScript3 mvc 框架
-* [naokazuterada/AS3Util](https://github.com/naokazuterada/AS3Util) - [ActionScript] Personal AS3 libraries
 * [nanosome/flow](https://github.com/nanosome/flow) - A system for building and processing visual state machines in ActionScript 3.
-* [muhachev/as-promise](https://github.com/muhachev/as-promise) - ActionScript deferred/promise implementation
-* [mrinalwadhwa/as3_performance_tests](https://github.com/mrinalwadhwa/as3_performance_tests) - actionscript performance tests
 * [MoxieUSA/Pronto](https://github.com/MoxieUSA/Pronto) - Pronto is an ActionScript 3 framework that provides simple solutions to common Flash needs such as playing videos, service requests, view management, and audio management.
 * [moly/XNA-Starter-Kit-Platformer---AS3](https://github.com/moly/XNA-Starter-Kit-Platformer---AS3) - The XNA Starter Kit ported to ActionScript 3.
 * [mlevans/Charts](https://github.com/mlevans/Charts) - Charting components in ActionScript 3.0
-* [mkulak/ebon-as](https://github.com/mkulak/ebon-as) - Actionscript 3 implementation of EBON format
 * [mklein3000/FlexBehave](https://github.com/mklein3000/FlexBehave) - Behave like BDD testing Framework for Actionscript/Flex
 * [mitya777/FFIO](https://github.com/mitya777/FFIO) - SWC with actionscript wrappers on javascript file IO library in Adobe Fireworks
-* [miriti/Flinjin](https://github.com/miriti/Flinjin) - ActionScript 3.0 raster game engine
-* [Mignari/mignari-core](https://github.com/Mignari/mignari-core) - An ActionScript library.
 * [mightybits/AS-Parse](https://github.com/mightybits/AS-Parse) - Actionscript framework used to communicate with the Parse.com cloud backend.
-* [michaelavila/asynchrony](https://github.com/michaelavila/asynchrony) - Simplifies your asynchronous ActionScript code
-* [meekgeek/herewestart](https://github.com/meekgeek/herewestart) - Skeleton for actionscript projects
 * [mccv/as3_tweet_stream](https://github.com/mccv/as3_tweet_stream) - An ActionScript library for the Twitter streaming API
 * [mcalegaris/gameapi-as3](https://github.com/mcalegaris/gameapi-as3) - Official Playtomic API for ActionScript 3 games
 * [MaxNarvaes/Procedural-experiments](https://github.com/MaxNarvaes/Procedural-experiments) - Experimenting with procedural content generation in actionscript 3
 * [matthiasbreuer/FUDI-as3](https://github.com/matthiasbreuer/FUDI-as3) - An implementation of the Puredata FUDI protocol in Actionscript
 * [MathiasPaumgarten/Code-Scanner](https://github.com/MathiasPaumgarten/Code-Scanner) - AIR Tool to scan source code of ActionScript Project. Count lines, calsses, function, etc.
-* [mateo-kozomara/actionscript-uuid](https://github.com/mateo-kozomara/actionscript-uuid) - Automatically exported from code.google.com/p/actionscript-uuid
-* [marioosh-net/flash](https://github.com/marioosh-net/flash) - flash / actionscript / flex / air
-* [marcelolfilho/facebook-actionscript-api](https://github.com/marcelolfilho/facebook-actionscript-api) - Automatically exported from code.google.com/p/facebook-actionscript-api
 * [mandeeps/AdmiralGobi](https://github.com/mandeeps/AdmiralGobi) - Flash game written in ActionScript 3 with FlashPunk framework, compiled with mxmlc from Flex SDK
 * [lyokato/as3googletranslate](https://github.com/lyokato/as3googletranslate) - ActionScript 3.0 Google Translate Client Library
-* [ludicast/HailToTheMayor](https://github.com/ludicast/HailToTheMayor) - Actionscript Library
-* [ludicast/asbert](https://github.com/ludicast/asbert) - Actionscript to Bert Mapper
 * [luciferous/Sound](https://github.com/luciferous/Sound) - Partial JS interface to ActionScript's Sound class
 * [luchodub/visualizadorFrecuencias](https://github.com/luchodub/visualizadorFrecuencias) - Visualizador de frecuencias de un archivo mp3, ActionScript 3.0 FlashPro5.5
 * [llinder/spring-as3](https://github.com/llinder/spring-as3) - Personal updates to Spring ActionScript 2.0 project.
-* [liy/AirCapsule-AS-Library](https://github.com/liy/AirCapsule-AS-Library) - ActionScript Library for AirCapsule
-* [levantulee/ActionScript-Project](https://github.com/levantulee/ActionScript-Project) - AS3 Demos and things...
 * [LaurentZuijdwijk/Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Apollo is an dependency injection and messaging framework. It can be used as the basis for Actionscript MVC projects.
-* [larryhou/larrio](https://github.com/larryhou/larrio) - Actionscript 3.0 layout and scrolling framework
-* [ktbs/ktbs4as-demo](https://github.com/ktbs/ktbs4as-demo) - Demo applications for the ActionScript binding
-* [k-lock/ActionScript](https://github.com/k-lock/ActionScript) - Actionscript Library Packages
 * [klickverbot/theBlackboard](https://github.com/klickverbot/theBlackboard) - A graphical guestbook system written in ActionScript 2 for the frontend and PHP for the backend.
-* [kemsky/RObject](https://github.com/kemsky/RObject) - Fast reflection for ActionScript
 * [Just89/TankWar](https://github.com/Just89/TankWar) - A Actionscript 3 prototype game made with Adobe Air for tablets in FlashDevelop
 * [Just89/MazeMan](https://github.com/Just89/MazeMan) - Small Actionscript 3 game with random Maze generator made in FlashDevelop
 * [jp-amis/as3AmisFramework](https://github.com/jp-amis/as3AmisFramework) - Adobe Air - ActionScript 3 - Starling - Set of classes built on top of Starling to help creating apps
 * [Joony/textas](https://github.com/Joony/textas) - A text adventure (interactive fiction) written in Actionscript
 * [JohnByrneRepo/SuperblitEngine](https://github.com/JohnByrneRepo/SuperblitEngine) - A platform game engine in Actionscript 3 using MVC patterns, blitting and a global registry.
 * [johelaq/SpaceAvoider](https://github.com/johelaq/SpaceAvoider) - Juego en actionscript utilizando Starling framework y patrones de diseño
-* [jlindsay/Flash-Ant-Script](https://github.com/jlindsay/Flash-Ant-Script) - Generic Ant script to compile actionscript
 * [JimTheMan/jimvc](https://github.com/JimTheMan/jimvc) - Lightweight actionscript 3 framework that combines MVC (model view controller) and FSM (finite state machine)
-* [jeremy-green/actionscript-browser](https://github.com/jeremy-green/actionscript-browser) - A group of classes that mimics some javascript functionality using the externalInterface
-* [jcmellado/flashcam](https://github.com/jcmellado/flashcam) - Webcam video capture, from ActionScript to JavaScript
 * [jccrosby/segment-io-as3lib](https://github.com/jccrosby/segment-io-as3lib) - ActionScript 3 Library for the Segment.io REST API
 * [jccrosby/assembla-as3-lib](https://github.com/jccrosby/assembla-as3-lib) - ActionScript 3 Library for the Assembla REST API
-* [jbaudanza/as-sqs](https://github.com/jbaudanza/as-sqs) - Amazon SQS bindings for ActionScript
 * [jasonsavage/savage-as3-lib](https://github.com/jasonsavage/savage-as3-lib) - A collection of Actionscript 3 classes for building professional flash applications and websites
 * [irusri/Popgenie-Bulktools](https://github.com/irusri/Popgenie-Bulktools) - Bioinformatics project based on actionscripts and Rich Internet application(RIA). Which helps to retrieve gene information from JSON webservice.
-* [irpagnossin/AS3](https://github.com/irpagnossin/AS3) - Some useful codes for ActionScript 3
 * [iromu/TOSHIBA-JOURN.E_TOUCH.FLASH](https://github.com/iromu/TOSHIBA-JOURN.E_TOUCH.FLASH) - Video player for TOSHIBA JOURN.E Touch tablet. Flash ActionScript code
-* [interactivenyc/actionscript-energy](https://github.com/interactivenyc/actionscript-energy) - Actionscript Energy
 * [inozemcev/ResoursesManager](https://github.com/inozemcev/ResoursesManager) - Simple manager for loading any content in actionscript project
 * [iloveitaly/ASLib](https://github.com/iloveitaly/ASLib) - Actionscript library to help ease AS 2/3 development
 * [iheart2code/FlashSorts](https://github.com/iheart2code/FlashSorts) - Common sorting algorithms implemented in ActionScript
-* [iflashlord/ToolTip-ActionScript3](https://github.com/iflashlord/ToolTip-ActionScript3) - Simple ToolTip Class
-* [hydna/as-hydna](https://github.com/hydna/as-hydna) - Actionscript 3 bindings for Hydna
-* [htmldrum/JRMASScripts](https://github.com/htmldrum/JRMASScripts) - Oooooh, ActionScript. You so silly.
-* [hrundik/fScheme](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript
 * [honi/as3-mingus](https://github.com/honi/as3-mingus) - An Actionscript 3 Animation and UI library.
 * [Hidetchi/81PieceSetSource](https://github.com/Hidetchi/81PieceSetSource) - Actionscript to generate external SWF that stores 81Dojo piece set graphic sorces
 * [heyfrench/as3midilib](https://github.com/heyfrench/as3midilib) - ActionScript 3.0 library for working with MIDI data.
@@ -747,119 +810,54 @@ A curated list of awesome ActionScript frameworks, libraries and software.
 * [guitarpoet/joyce](https://github.com/guitarpoet/joyce) - High performance ActionScript 3 Image loading and Processing Toolkit
 * [gretel/SmplLggr](https://github.com/gretel/SmplLggr) - Simple but comfortable logger library for Actionscript 3
 * [Gread72/GreadFlashComponentLib](https://github.com/Gread72/GreadFlashComponentLib) - actionscript based library for commonly used component and utilities
-* [graysonlang/ascorelib](https://github.com/graysonlang/ascorelib) - ActionScript Core Library
 * [grapefrukt/grow21](https://github.com/grapefrukt/grow21) - actionscript implementation of the card game grow21
 * [grapefrukt/flashpen](https://github.com/grapefrukt/flashpen) - An Actionscript 3.0 PlayPen Client
-* [goodm/Strategy-Game](https://github.com/goodm/Strategy-Game) - ActionScript 3.0 Strategy Game - classes only
 * [GLips/Flash_Framework](https://github.com/GLips/Flash_Framework) - A framework for making vector-based games in ActionScript 3
-* [githubsdk/bitmapdata-scale9](https://github.com/githubsdk/bitmapdata-scale9) - Actionscript Bitmapdata Scale9
-* [ghthor/wcl.as](https://github.com/ghthor/wcl.as) - My ActionScript 3 Class Library
-* [gfazioli/Undolibrary](https://github.com/gfazioli/Undolibrary) - Adobe Flash ActionScript Library
 * [geoo993/FlashExamples](https://github.com/geoo993/FlashExamples) - List of many flash examples created with Actionscript 3
 * [gdavis/GDi-AS3-Core](https://github.com/gdavis/GDi-AS3-Core) - Framework for Actionscript 3.0 Flash projects
-* [gamestamper/GameStamper-actionscript-sdk](https://github.com/gamestamper/GameStamper-actionscript-sdk) - ActionScript SDK for the GameStamper API
 * [frosty/FlixelTests](https://github.com/frosty/FlixelTests) - A bunch of tests and demos of me trying things out with the Flixel ActionScript game framework.
 * [flavorzyb/STEngine](https://github.com/flavorzyb/STEngine) - Open source repository for game engine for Actionscript 3 and Flex projects
-* [FlaPS/actionscriptdatetimelibrary](https://github.com/FlaPS/actionscriptdatetimelibrary) - Automatically exported from code.google.com/p/actionscriptdatetimelibrary
 * [firsara/core.as](https://github.com/firsara/core.as) - Comprehensive Collection of ActionScript Tools and Utilities
 * [filipelima/soslogger](https://github.com/filipelima/soslogger) - SOSlogger is a pure Actionscript 3 helper tool to use in conjunction with PowerFlasher's SOSmax( http://www.sos.powerflasher.com/ )
-* [ferf/aws-dynamodb-actionscript](https://github.com/ferf/aws-dynamodb-actionscript) - An actionscript library for accessing Amazon's AWS DynamoDB
-* [felipi/Night-Sunrise](https://github.com/felipi/Night-Sunrise) - Actionscript 3 game project.
 * [fefranca/fefranca-lib](https://github.com/fefranca/fefranca-lib) - Useful classes / framework for Actionscript 3
-* [eyepaq/insteon-as3](https://github.com/eyepaq/insteon-as3) - ActionScript Insteon code
 * [ewilde1968/Stormbringer-Prototype](https://github.com/ewilde1968/Stormbringer-Prototype) - Prototype for Stormbringer Character Generator. Based off Chaosium's 1981 Stormbringer Roleplaying Game. Written in Flex and ActionScript.
 * [evgeniy-polyakov/link-report-analyzer](https://github.com/evgeniy-polyakov/link-report-analyzer) - The tool for analyzing ActionScript link reports.
 * [ethankennerly/regulate](https://github.com/ethankennerly/regulate) - Accurate and efficient timer in ActionScript.
 * [ethankennerly/hamcrest_asunit_example](https://github.com/ethankennerly/hamcrest_asunit_example) - Trivial example of org.hamcrest asserts invoked by asunit framework.  ActionScript 3.  Depends on AS3 packages asunit and hamcrest.  Does not depend on Flex or FlexUnit.
 * [erussell/AS3Units](https://github.com/erussell/AS3Units) - ActionScript library for parsing, formatting, and converting between units of measure
 * [Erls-Corporation/flash.edwardhotchkiss.com](https://github.com/Erls-Corporation/flash.edwardhotchkiss.com) - Sexy old Flash/ActionScript 3.0 site / Full Source for nostalgia
-* [erilyth/GetMeOut-Actionscript](https://github.com/erilyth/GetMeOut-Actionscript) - A simple 2D mario style platformer made with actionscript. Currently there are 6 levels and more will be added soon.
-* [eneo5541/mudEngine](https://github.com/eneo5541/mudEngine) - A rudimentary MUD engine using ActionScript
 * [elvizcacho/StandardMovements](https://github.com/elvizcacho/StandardMovements) - The StandardMovements class adds all the basic actions and movements to any object in the stage. It's the easiest and fastest way to add and use drag and drop actions in ActionScript 3.0
 * [elvisgs/relogios_as3](https://github.com/elvisgs/relogios_as3) - Implementação de relógios analógico e digital que fiz enquanto estudava ActionScript 3 no final de 2007
 * [elvisgs/newsreader_as3](https://github.com/elvisgs/newsreader_as3) - "Leitor de notícias" implementado enquanto estudava ActionScript 3 no final de 2007
-* [ejdiezfraile/Primes](https://github.com/ejdiezfraile/Primes) - Find the 10001st prime (ActionScript)
-* [ederlima/TreeView](https://github.com/ederlima/TreeView) - An ActionScript 3 custom TreeView
 * [Dr-robin/MultilangAS](https://github.com/Dr-robin/MultilangAS) - ActionScript 3.0을 위한 다국어 라이브러리입니다.
-* [dreamsocket/actionscript-rules_engine](https://github.com/dreamsocket/actionscript-rules_engine) - An decision engine for generic rules
-* [dreamsocket/actionscript-p2p_messaging](https://github.com/dreamsocket/actionscript-p2p_messaging) - A simple messaging framework for doing P2P in Flash
 * [djenkins35/anoddspace](https://github.com/djenkins35/anoddspace) - Actionscript 3 Real-time strategy / top down space game
-* [dimalev/picocontainer](https://github.com/dimalev/picocontainer) - PicoContainer implementation for ActionScript 3.0
-* [DigitalPrimates/GuiceAS3](https://github.com/DigitalPrimates/GuiceAS3) - ActionScript Guice Port
-* [dguyon/ActionScript-FriendFeed](https://github.com/dguyon/ActionScript-FriendFeed) - ActionScript FriendFeed widget
-* [devxoul/as3id3lib](https://github.com/devxoul/as3id3lib) - ActionScript 3.0 id3 library.
-* [derekdon/ActionScript-Flex](https://github.com/derekdon/ActionScript-Flex) - Select AS3/AS2 classes and Flex MXML.
-* [dennisosimon/AStar](https://github.com/dennisosimon/AStar) - AStar written in Actionscript 3
-* [degdeg/as3socket](https://github.com/degdeg/as3socket) - ActionScript 3 Socket Server
-* [dbrock/knock.as](https://github.com/dbrock/knock.as) - Lightweight ActionScript 3 testing
 * [DavidMah/PlaneGame](https://github.com/DavidMah/PlaneGame) - Touhou wannabe game with Actionscript for a tiny credit web programming optional assignment
 * [davestewart/flash-core](https://github.com/davestewart/flash-core) - A robust set of base ActionScript 3.0 classes developed out of commercial projects
 * [darylducharme/Memory](https://github.com/darylducharme/Memory) - A version of a Memory game in actionscript
 * [DarceyLloyd/AFTC-AS3-Libs](https://github.com/DarceyLloyd/AFTC-AS3-Libs) - A collection of ActionScript 3 classes and libraries which help development and debug of Flash, Flex and AIR applications.
-* [dahlbergbob/Sequence](https://github.com/dahlbergbob/Sequence) - An ActionScript Sequence
 * [dahlbergbob/Notifier](https://github.com/dahlbergbob/Notifier) - A notification dispatcher lib to replace the native actionscript event-model
 * [Corsaair/spitfire](https://github.com/Corsaair/spitfire) - ActionScript 3.0 Socket servers with Redtamarin
 * [Corsaair/hashlib](https://github.com/Corsaair/hashlib) - Hashing utility functions for ActionScript 3.0
-* [codeengine/Manuka](https://github.com/codeengine/Manuka) - Forrst ActionScript Library
-* [codecollision/Window-Interface](https://github.com/codecollision/Window-Interface) - Actionscript 3.0 window interface system
-* [cleversoap/as3-airbrake](https://github.com/cleversoap/as3-airbrake) - Actionscript 3 Airbrake Utility
 * [ChrisJan00/croissant](https://github.com/ChrisJan00/croissant) - "Eat the croissant", an actionscript game inspired by "don't shit your pants"
-* [choppingblock/actionscript-chop-tmbundle](https://github.com/choppingblock/actionscript-chop-tmbundle) - Collection of useful ActionScript 3 snippets and templates for studio and student use.
-* [chocolat/actionscript.truffle](https://github.com/chocolat/actionscript.truffle) - Automatically generated. Submit improvements to the tmbundle:
-* [cardin/ConFlg](https://github.com/cardin/ConFlg) - Actionscript Run-time Console
-* [canab/action-lib](https://github.com/canab/action-lib) - Common actionscript library
 * [burdiuz/StringParser](https://github.com/burdiuz/StringParser) - ActionScript 3 expandable String parser allows you to add sub-parsers. As example JSON parser and AS3 native expressions parsers are added. AS3 parser should allow to parse and execute simple expressions like math and object creation, method execution.
-* [brucelane/Resolume-ActionScript-Patches](https://github.com/brucelane/Resolume-ActionScript-Patches) - Resolume Avenue 3 SWFs
-* [BrianMehrman/PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - ActionScript 3d Panoramic Viewer
 * [bradparks/MarioMaker](https://github.com/bradparks/MarioMaker) - A tile-based game engine written in Actionscript 3.
 * [bradharms/archives-tmxtool](https://github.com/bradharms/archives-tmxtool) - A general-purpose Flash/ActionScript TileEd .tmx file loading and processing library.
 * [bluecadet/AS3_Toolkit](https://github.com/bluecadet/AS3_Toolkit) - ActionScript 3 utilities and classes to aid development
-* [blockforest/rockdot-actionscript](https://github.com/blockforest/rockdot-actionscript) - Pure Actionscript framework. Write once, run anywhere architecture.
-* [blackberryoctopus/Actionscript-Swf-Loading-Experiments](https://github.com/blackberryoctopus/Actionscript-Swf-Loading-Experiments) - Actionscript Manipulations of the ByteArray representations of a SWF
-* [Birikini/AS2GameLib](https://github.com/Birikini/AS2GameLib) - Actionscript 2 Game Library
 * [bigosmallm/InstallApacheFlexBadge](https://github.com/bigosmallm/InstallApacheFlexBadge) - The HTML, JS and ActionScript code for the badge installer
 * [benstucki/reflex-components](https://github.com/benstucki/reflex-components) - A standard component set built on the ActionScript 3 component framework Reflex.
 * [BenLeffler/LaunchPad](https://github.com/BenLeffler/LaunchPad) - Actionscript asset management and application launch platform for mobile, desktop and web apps
-* [begininend/as3mapper](https://github.com/begininend/as3mapper) - actionscript data mapping library
-* [Bee-Cave-Games/facebook-actionscript-api](https://github.com/Bee-Cave-Games/facebook-actionscript-api) - Adobe ActionScript 3 SDK for Facebook Platform
-* [bazmul25/Sequencer](https://github.com/bazmul25/Sequencer) - Audio Sequencer - Actionscript
 * [Bancakan20/ascompress](https://github.com/Bancakan20/ascompress) - Compression component for ActionScript 3 (mirror)
 * [azri/AS3_4_fun](https://github.com/azri/AS3_4_fun) - Actionscript 3 code that we work on for fun ;-)
-* [axldns/SampleSlots](https://github.com/axldns/SampleSlots) - sample actionscript project (web + mobile)
 * [away3d/away3d-examples-fp9](https://github.com/away3d/away3d-examples-fp9) - Actionscript examples for use with the Away3D engine for Flash Player 9
 * [ashack/ConsoleConnect](https://github.com/ashack/ConsoleConnect) - ActionScript 3.0 library to communicate with browser console from Flash/Flex apps
 * [arulrajnet/simplevideochat](https://github.com/arulrajnet/simplevideochat) - A simple webcam video chat with two partner. This is powered by red5 as server and flex/actionscript as client.
-* [arthwood/artAs](https://github.com/arthwood/artAs) - my ActionScript library
-* [arne-schroppe/as3-bool](https://github.com/arne-schroppe/as3-bool) - Smalltalk-like Booleans for ActionScript 3
 * [AnthonyCaliendo/flexunit_puremvc_testcase](https://github.com/AnthonyCaliendo/flexunit_puremvc_testcase) - A base TestCase which adds PureMVC support to FlexUnit tests for testing Flex/ActionScript projects
-* [AlwynW/Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects
 * [also/remix-flash](https://github.com/also/remix-flash) - ActionScript 3 API for the Echo Nest Remix API
-* [alinakipoglu/ASProcedural](https://github.com/alinakipoglu/ASProcedural) - An Actionscript implementation of CocoaProcedural
-* [AlexeyOleynick/MatchTwoMinigame-ActionScript-TDD](https://github.com/AlexeyOleynick/MatchTwoMinigame-ActionScript-TDD) - Sample application to show TDD implemetation in Actionscript3
 * [AlexandruCiobanu/fxmarker](https://github.com/AlexandruCiobanu/fxmarker) - FxMarker is a templating engine similar with the Freemarker java library. It generates text output based on templates and context objects provided as input. It is a Flex library providing content generation features to ActionScript community.
-* [alexandrratush/travis-CI-actionscript3-demo](https://github.com/alexandrratush/travis-CI-actionscript3-demo) - Travis-CI ActionScript 3 demo project
 * [airsiao/protobuf](https://github.com/airsiao/protobuf) - Build from protoc-gen-as3 for ActionScript 3.0 Libaray, String type charset Support.
 * [afief/tetris_flash](https://github.com/afief/tetris_flash) - Teris Game In Flash Project using Actionscript 3
 * [adriaanbalt/AS3VideoPlayer](https://github.com/adriaanbalt/AS3VideoPlayer) - ActionScript 3 video player I built in 2008
-* [adjohnson916/actionscript-async](https://github.com/adjohnson916/actionscript-async) - Async utilities for ActionScript.
-* [abdul/bloglines-actionscript-api](https://github.com/abdul/bloglines-actionscript-api) - Bloglines Actionscript API
-* [5468sun/T-TunSun](https://github.com/5468sun/T-TunSun) - My ActionScript libs
 * [5468sun/E-EditUploader](https://github.com/5468sun/E-EditUploader) - A online image eidtor wriiten in ActionScript
-* [lindborg/Nautilida](https://github.com/lindborg/Nautilida) - ActionScript 3.0 platform based Game Framework. Created for high dynamic controls and extreme visual game designs.
-* [collectivecolors/as3-org.as3commons.lang](https://github.com/collectivecolors/as3-org.as3commons.lang) - EXTERNAL - as3-commons language component releases for use as Git submodules in  ActionScript or Flex applications.
-* [asstrochris/AsStream](https://github.com/asstrochris/AsStream) - Simple serialization for actionscript. AsStream is meant to mimic the java xstream framework in many ways, but with a simpler twist
-* [ZackPierce/fxg2as3](https://github.com/ZackPierce/fxg2as3) - Converting FXG markup into executable Actionscript 3 code
-* [resistdesign/Guidance](https://github.com/resistdesign/Guidance) - Mobile/Light Weight IoC ActionScript 3.0 Framework.
-* [pablopareja/MG7Viewer](https://github.com/pablopareja/MG7Viewer) - Flex/Actionscript 3.0 GUI for visualization of metagenomics results
-* [lyokato/as3mixivoice](https://github.com/lyokato/as3mixivoice) - ActionScript 3.0 mixi voice client library
-* [lindborg/Sepiida](https://github.com/lindborg/Sepiida) - ActionScript 3.0 center-stage dynamic Game Framework
-* [hayesmaker/AS3-Dices](https://github.com/hayesmaker/AS3-Dices) - Actionscript 3.0 Dice rolling animation using Stage3D, Away3D and Jiglib
-* [flashextensions/DashAS3Library](https://github.com/flashextensions/DashAS3Library) - Common ActionScript 3 library classes and utilities
-* [cccaldas/as3-interpreter](https://github.com/cccaldas/as3-interpreter) - Actionscript 3.0 interpreter for mac osx terminal.
-* [bww/wgflash](https://github.com/bww/wgflash) - Transaction oriented animation for Actionscript / Flash
-* [BowlerHatLLC/NextGenAS_LoanPaymentCalculator](https://github.com/BowlerHatLLC/NextGenAS_LoanPaymentCalculator) - Multiple examples of building a loan payment calculator widget using transpiled ActionScript and HTML
-* [bluef/kuching](https://github.com/bluef/kuching) - a lightweight XMPP library for Actionscript 3
-* [bfolder/Milky](https://github.com/bfolder/Milky) - Actionscript 3 API kit for rememberthemilk.com / Remember the Milk
 * [yellcorp/Yellib](https://github.com/yellcorp/Yellib) - A general-purpose mishmash of ActionScript 3
 * [wayee/pixel](https://github.com/wayee/pixel) - Pixel is a lightweight ActionScript 3.0 2D game engine.
 * [TheBannerBoss/BossClick](https://github.com/TheBannerBoss/BossClick) - Actionscript 3, Standard-banner clickTag button generator and border creator
