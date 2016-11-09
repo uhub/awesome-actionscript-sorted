@@ -2,6 +2,54 @@
 
 A curated list of awesome ActionScript frameworks, libraries, components and engines.
 
+* User Interface
+	* [UI Components](#ui-components)
+	* [Flex Components](#flex-components)
+	* [Gestures](#gestures)
+* Multimedia
+	* [Camera](#camera)
+	* [Sound](#sound)
+	* [Image](#image)
+	* [Particle](#particle)
+	* [Layout](#layout)
+	* [Math](#math)
+	* [Crypto](#crypto)
+	* [Asynchronous](#asynchronous)
+* Networking
+	* [Authentication](#authentication)
+	* [HTTP](#http)
+	* [P2P](#p2p)
+	* [Sockets](#sockets)
+	* [Database](#database)
+	* [Data Loader](#data-loader)
+	* [Starling](#starling)
+* File Formats
+	* [3D](#3d)
+	* [JSON](#json)
+	* [XML](#xml)
+	* [HTML](#html)
+	* [JavaScript](#javascript)
+	* [PDF](#pdf)
+	* [SWF](#swf)
+	* [Markdown](#markdown)
+* Frameworks
+	* [Utilities](#utilities)
+	* [MVC Framework](#mvc-framework)
+	* [RobotLegs Framework](#robotlegs-framework)
+	* [Logger Framework](#logger-framework)
+	* [Signals Framework](#signals-framework)
+	* [Animation Framework](#animation-framework)
+	* [Game Engine](#game-engine)
+	* [Game AI](#game-ai)
+* Misc
+	* [Unit Tests](#unit-tests)
+	* [Dependency Injection](#dependency-injection)
+	* [Media Player](#media-player)
+	* [Data Visualization](#data-visualization)
+	* [Physics](#physics)
+	* [API](#api)
+	* [Unsorted](#unsorted)
+
 ## UI Components
 
 * [robertpenner/MinimalComps](https://github.com/robertpenner/MinimalComps) - MinimalComps are a set of minimal user interface components for use in ActionScript 3.0 based projects. See: http://www.bit-101.com/blog/?cat=9
