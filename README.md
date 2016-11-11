@@ -13,11 +13,12 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [Camera](#camera)
 	* [Sound](#sound)
 	* [Image](#image)
-	* [QR Code](#qr-code)
 	* [Font](#font)
 	* [Particle](#particle)
 	* [Media Player](#media-player)
 	* [Data Visualization](#data-visualization)
+	* [Augmented Reality](#augmented-reality)
+	* [QR Code](#qr-code)
 * Networking
 	* [Authentication](#authentication)
 	* [HTTP](#http)
@@ -43,6 +44,8 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [Logger Framework](#logger-framework)
 	* [Signals Framework](#signals-framework)
 	* [Animation Framework](#animation-framework)
+	* [Functional Programming](#functional-programming)
+	* [Unit Testing](#unit-testing)
 	* [Game Engine](#game-engine)
 	* [Game AI](#game-ai)
 * 3D Engines
@@ -58,7 +61,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [Physics](#physics)
 	* [Crypto](#crypto)
 	* [Asynchronous](#asynchronous)
-	* [Unit Tests](#unit-tests)
 	* [Dependency Injection](#dependency-injection)
 	* [Other Utilities](#other-utilities)
 * API
@@ -374,14 +376,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - AS3 framework for GPU-based image processing
 * [Flash-Animated-GIF-Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - A wicked fast and robust AS3 library for playing Animated GIFs in Flash.
 
-### QR Code
-
-* [as3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - A QR code encoder in as3
-* [qr-zbar-ane](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader
-* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
-* [QR_AS3_JS_zxing](https://github.com/flockonus/QR_AS3_JS_zxing) - Javascript binding of AS3(.swf) zxing to read QR-codes from Webcam
-* [jquery.webcamqrcode](https://github.com/marcbuils/jquery.webcamqrcode) - QR Code scanning in jQuery
-
 ### Font
 
 * [Firetype](https://github.com/MaxDidIt/firetype) - Actionscript 3 library to parse OpenType fonts and render them using Stage3D
@@ -439,6 +433,9 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 
 ### Data Visualization
 
+* [Degrafa](https://github.com/lancejpollard/degrafa) - Degrafa is a declarative graphics framework for Flex.
+* [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
+* [Axiis](https://github.com/lancejpollard/axiis) - A markup based data visualization framework for Flex
 * [Flare](https://github.com/prefuse/Flare) - Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.
 * [johnyanarella/Flare](https://github.com/johnyanarella/flare) - Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player.
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) - An ActionScript mapping framework for data visualization.
@@ -446,12 +443,29 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [flare_juicekit](https://github.com/jonbuffington/flare_juicekit) - A patched branch of the Flare data visualization ActionScript library for use in the JuiceKit project.
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs based on flare ActionScript library.
 * [flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
-* [axiis](https://github.com/lancejpollard/axiis) - A markup based data visualization framework for Flex
 * [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs
 * [iv](https://github.com/yiwang/iv) - Yi Wang, Luhua Lai, Qi Ouyang, "Visualization System of Biochemical Network Dynamics." Computers and applied chemistry, 26(4):385-389, 2009. (Main technology used: ActionScript)
 * [visualizadorFrecuencias](https://github.com/luchodub/visualizadorFrecuencias) - Visualizador de frecuencias de un archivo mp3, ActionScript 3.0 FlashPro5.5
 * [Weave](https://github.com/WeaveTeam/Weave) - Weave (Web-based Analysis and Visualization Environment)
 * [social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media
+
+### Augmented Reality
+
+* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11.
+* [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - This project allows you to quickly test AR demos to see what works and what doesn't with or without a webcam.
+* [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library.
+* [AR-ANE-Samples](https://github.com/myflashlab/AR-ANE-Samples) - MyAR is an AR AIR Native Extension supporting Android and iOS 64-bit based on Metaio's SDK.
+* [EZFLAR](https://github.com/tcha-tcho/EZFLAR) - A little wrapper to ease the way AR works
+* [IN2ARSDKExamples](https://github.com/inspirit/IN2ARSDKExamples) - IN2AR latest SDK libs and examples
+* [augmented_reality](https://github.com/twalsworth/augmented_reality) - AS3/Flex AR example using Flare3d with a marker
+
+### QR Code
+
+* [as3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - A QR code encoder in as3
+* [qr-zbar-ane](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader
+* [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
+* [QR_AS3_JS_zxing](https://github.com/flockonus/QR_AS3_JS_zxing) - Javascript binding of AS3(.swf) zxing to read QR-codes from Webcam
+* [jquery.webcamqrcode](https://github.com/marcbuils/jquery.webcamqrcode) - QR Code scanning in jQuery
 
 ## Networking
 ### Authentication
@@ -738,6 +752,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [Signaller](https://github.com/whitered/Signaller) - ActionScript signals implementation with restricted rights for dispatching
 * [actionscript3-signals.tmbundle](https://github.com/simongregory/actionscript3-signals.tmbundle) - TextMate support for the ActionScript 3 Signals event system.
 * [as3-signals](https://github.com/robertpenner/as3-signals) - Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.
+* [mate](https://github.com/lancejpollard/mate) - Mate is a tag-based, event-driven framework, that makes it easy to handle UI events.
 * [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) - Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands
 * [Robotlegs-signals-signalMap](https://github.com/pederan/Robotlegs-signals-signalMap) - Create and map new signals on the fly
 * [as2-signals](https://github.com/jSandhu/as2-signals) - AS2 Signals is a port of Robert Penner's AS3 Signals.
@@ -775,6 +790,28 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [KafeComponent](https://github.com/kyoji2/KafeComponent) - Easy to use components for Flash, designed for animators.
 * [MobiAIR](https://github.com/knomad/MobiAIR) - Fast animated sprites for AIR on mobile
 * [garland](https://github.com/iopred/garland) - A layered animation library.
+
+### Functional Programming
+
+* [AS3FP](https://github.com/jadbox/AS3FP) - This library is a collection of functional idioms for ActionScript 3 based on Haskell and Coffeescript.
+* [raix](https://github.com/richardszalay/raix) - raix (Reactive And Interactive eXtensions) is a functional, composable, API for AS3 that simplifies working with data, regardless of whether its interactive (arrays) or reactive (events). raix was previously RxAs
+* [fxp-as3](https://github.com/j3k0/fxp-as3) - Actionscript 3 Functional Programing
+* [funfx](https://github.com/peternic/funfx) - Ruby tool for functional testing of Flex applications
+
+### Unit Testing
+
+* [flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
+* [flex-flexunit](https://github.com/apache/flex-flexunit) - A unit testing framework for Apache Flex and ActionScript 3.0 applications and libraries. It mimics the functionality of JUnit, a Java unit testing framework, and comes with a graphical test runner
+* [asunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
+* [as3unit](https://github.com/Hoten/as3unit) - A unit testing framework for ActionScript 3
+* [asunit-legacy](https://github.com/lukebayes/asunit-legacy) - The ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
+* [flexunit.tmbundle](https://github.com/simongregory/flexunit.tmbundle) - TextMate support for the FlexUnit ActionScript 3 testing framework.
+* [leanunit-actionscript2](https://github.com/dbackeus/leanunit-actionscript2) - Sweet and lean unit test framework for actionscript 2.0
+* [ASTest](https://github.com/som/ASTest) - test prog on ActionScript
+* [FlexBehave](https://github.com/mklein3000/FlexBehave) - Behave like BDD testing Framework for Actionscript/Flex
+* [knock.as](https://github.com/dbrock/knock.as) - Lightweight ActionScript 3 testing
+* [mockolate](https://github.com/drewbourne/mockolate) - fake chocolate, mock objects and test spies for AS3
+* [flexspec](https://github.com/BLC/flexspec) - Flex testing library with a more RSpec style syntax then a TestUnit one
 
 ### Game Engine
 
@@ -1035,36 +1072,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [worker-from-class](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions
 * [as3concurrency](https://github.com/akb7/as3concurrency) - as3concurrency using acrionsricpt workers
 
-### Unit Tests
-
-* [flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
-* [flex-flexunit](https://github.com/apache/flex-flexunit) - A unit testing framework for Apache Flex and ActionScript 3.0 applications and libraries. It mimics the functionality of JUnit, a Java unit testing framework, and comes with a graphical test runner
-* [asunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
-* [as3unit](https://github.com/Hoten/as3unit) - A unit testing framework for ActionScript 3
-* [asunit-legacy](https://github.com/lukebayes/asunit-legacy) - The ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
-* [flexunit.tmbundle](https://github.com/simongregory/flexunit.tmbundle) - TextMate support for the FlexUnit ActionScript 3 testing framework.
-* [leanunit-actionscript2](https://github.com/dbackeus/leanunit-actionscript2) - Sweet and lean unit test framework for actionscript 2.0
-* [ASTest](https://github.com/som/ASTest) - test prog on ActionScript
-* [as3_performance_tests](https://github.com/mrinalwadhwa/as3_performance_tests) - actionscript performance tests
-* [FlexBehave](https://github.com/mklein3000/FlexBehave) - Behave like BDD testing Framework for Actionscript/Flex
-* [FlixelTests](https://github.com/frosty/FlixelTests) - A bunch of tests and demos of me trying things out with the Flixel ActionScript game framework.
-* [StandardMovements](https://github.com/elvizcacho/StandardMovements) - The StandardMovements class adds all the basic actions and movements to any object in the stage. It's the easiest and fastest way to add and use drag and drop actions in ActionScript 3.0
-* [knock.as](https://github.com/dbrock/knock.as) - Lightweight ActionScript 3 testing
-* [mockolate](https://github.com/drewbourne/mockolate) - fake chocolate, mock objects and test spies for AS3
-* [revisit](https://github.com/MoritzStefaner/revisit) - revisit is a real-time visualization of the latest twitter messages (tweets) around a specific topic. Use it create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by retweets and @replies. You will need Flash CS4 to compile the sources.
-* [funfx](https://github.com/peternic/funfx) - Ruby tool for functional testing of Flex applications
-* [robotlegs2-signals-feathers-flickr-example](https://github.com/thepalebluedot/robotlegs2-signals-feathers-flickr-example) - A simple architecture test for a Flickr gallery application based on Robotlegs2, Feathers and Signals.
-* [BirdBase](https://github.com/vishvish/BirdBase) - AS3 Microsite Framework -  Birdbase is stable and we're about to launch a production site with it, so that seems like a good point to go 1.0. But we need to write some docs and guides to really hit that. And maybe some tests.
-* [IN2ARSDKExamples](https://github.com/inspirit/IN2ARSDKExamples) - IN2AR latest SDK libs and examples
-* [ane-testflight](https://github.com/jlopez/ane-testflight) - TestFlight ANE
-* [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) - as3pathfinder is a Grid Path finding Library written on Action Script 3. It is finding shortest route from start point to end on a 2D grid for given map of obstacles. Utilizes Dijkstra's algorithm.
-* [flexspec](https://github.com/BLC/flexspec) - Flex testing library with a more RSpec style syntax then a TestUnit one
-* [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - This project allows you to quickly test AR demos to see what works and what doesn't with or without a webcam.
-* [funfx](https://github.com/aslakhellesoy/funfx) - Ruby tool for functional testing of Flex applications
-* [node-flash-game](https://github.com/talltyler/node-flash-game) - testing out node.js for realtime flash games
-* [ActionScript-3-Development-Task-Contests](https://github.com/mikechambers/ActionScript-3-Development-Task-Contests) - Repository for files and submissions from the ActionScript 3 Development Task Contests
-* [Four-ways-to-link-a-list](https://github.com/richardlord/Four-ways-to-link-a-list) - Performance test looking at four linked list architectures for Actionscript 3
-
 ### Dependency Injection
 
 * [dawn](https://github.com/sammyt/dawn) - lightweight dependency injection for actionscript
@@ -1146,7 +1153,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [containerport](https://github.com/amitp/containerport) - A Flash minigame simulating container shipping ports. Status: developed some useful libraries but this game is on hold while I work on gamedev tutorials.
 * [as3commons-collections](https://github.com/AS3Commons/as3commons-collections) - ActionScript Collections Framework
 * [actionscript](https://github.com/jacksonkr/actionscript) - A collection of as3 tools.
-* [AS3FP](https://github.com/jadbox/AS3FP) - This library is a collection of functional idioms for ActionScript 3 based on Haskell and Coffeescript.
 * [AS3-Toolkit](https://github.com/mattupstate/AS3-Toolkit) - A collection of goodies for developing ActionScript 3 applications
 * [as_validators](https://github.com/rscarvalho/as_validators) - A Small collection of validators for ActionScript 2 (soon I'll port them to ActionScript 3)
 * [StoleTheShow-AS3-Library](https://github.com/NicolasZanotti/StoleTheShow-AS3-Library) - A collection of ActionScript 3 classes to aid in the development of Flash Applications.
@@ -1239,7 +1245,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [bloglines-actionscript-api](https://github.com/abdul/bloglines-actionscript-api) - Bloglines Actionscript API
 * [WowActions](https://github.com/Spamcaster/WowActions) - ActionScript 3 API for World of Warcraft Community API Platform
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Leap Motion AS3 API
-* [raix](https://github.com/richardszalay/raix) - raix (Reactive And Interactive eXtensions) is a functional, composable, API for AS3 that simplifies working with data, regardless of whether its interactive (arrays) or reactive (events). raix was previously RxAs
 * [AIR-OpenCV-Extension](https://github.com/wouterverweirder/AIR-OpenCV-Extension) - Native Extension for Adobe AIR, exposing OpenCV API's
 * [Parsley-Core](https://github.com/spicefactory/Parsley-Core) - Core APIs and implementation of the Parsley IOC container for Flex/Flash/AIR
 * [arcgis-samples-flex](https://github.com/Esri/arcgis-samples-flex) - Basic API samples for the ArcGIS API for Flex
@@ -1286,7 +1291,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [Android-Native-Device-Info](https://github.com/funky-monkey/Android-Native-Device-Info) - Grab native device info like OS, Model, Brand, SDK Version and CPU. These AS3 classes uses Adobe AIR for Android to grab an Android system file named /system/build.prop, parse it and store its values in an nice value object for you to use. This parsed information is mainly used for analytics.
 * [flex_sdk_maven_install](https://github.com/piercer/flex_sdk_maven_install) - A project showing how to install Adobe Flex SDK's into maven repositories using descriptor files
 * [SparkComponents](https://github.com/badu/SparkComponents) - Missing Spark Components on Flex SDK 4.6.0
-* [AR-ANE-Samples](https://github.com/myflashlab/AR-ANE-Samples) - MyAR is an augmented reality Air Native Extension supporting Android and iOS 64-bit based on Metaio's SDK which gives you full power over your AR content through AREL.
 * [blackberry.polarmobile.childbrowser](https://github.com/polarmobile/blackberry.polarmobile.childbrowser) - ChildBrowser Extension for BlackBerry WebWorks Tablet SDK
 * [AdColony-AdobeAIR-SDK](https://github.com/AdColony/AdColony-AdobeAIR-SDK) - AdColony Native Extension for Adobe AIR
 * [flexRpcStubs](https://github.com/blegros/flexRpcStubs) - Stubs for service classes in the Flex SDK package mx.rpc
@@ -1449,7 +1453,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [as3-persistence](https://github.com/karfau/as3-persistence) - A framework for ActionScript  3 to encapsulate the "How?" of persistent objects aka entities
 * [asresource](https://github.com/jduff/asresource) - A RESTful framework similar to Rails' ActiveResource for Actionscript 3
 * [Flush](https://github.com/jamesfinley/Flush) - Flush is a Flash Actionscript 2.0 library, designed after jQuery.
-* [fxp-as3](https://github.com/j3k0/fxp-as3) - Actionscript 3 Functional Programing
 * [crazyas](https://github.com/harryxu/crazyas) - Useful actionscript library
 * [as3proj](https://github.com/gka/as3proj) - ActionScript port of Proj.4 library
 * [danmaku-engine](https://github.com/gavD/danmaku-engine) - Actionscript 3 engine for creating shoot 'em ups with lots of projectiles
@@ -1743,7 +1746,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [RectanglePacking](https://github.com/villekoskelaorg/RectanglePacking) - Super fast AS3 implementation of rectangle packing algorithm
 * [ZaaIL](https://github.com/ZaaLabs/ZaaIL) - An open source cross compilation of DevIL to Flash using Adobe Alchemy
 * [Demos](https://github.com/DragonBones/Demos) - DragonBones Demos
-* [EZFLAR](https://github.com/tcha-tcho/EZFLAR) - a little wrap to ez the augmented reality works
 * [WonderflEditor](https://github.com/mash/WonderflEditor) - Actionscript3 editor in http://wonderfl.net/
 * [sourceTiTS](https://github.com/Fenoxo/sourceTiTS) - Trials in Tainted Space
 * [jangaroo-libs](https://github.com/CoreMedia/jangaroo-libs) - Jangaroo standard libraries
@@ -1927,3 +1929,14 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [SnakeWars](https://github.com/SuyashMShepHertz/SnakeWars) - Basic Multiplayer Snake Game
 * [skyrimui](https://github.com/Mardoxx/skyrimui) - Unofficial Skyrim UI SDK
 * [PureMVC-AS3-Searchable-Image-Gallery](https://github.com/jpescada/PureMVC-AS3-Searchable-Image-Gallery) - A basic image gallery with tag search that I've built using PureMVC for Actionscript 3.0.
+* [as3_performance_tests](https://github.com/mrinalwadhwa/as3_performance_tests) - actionscript performance tests
+* [FlixelTests](https://github.com/frosty/FlixelTests) - A bunch of tests and demos of me trying things out with the Flixel ActionScript game framework.
+* [StandardMovements](https://github.com/elvizcacho/StandardMovements) - The StandardMovements class adds all the basic actions and movements to any object in the stage. It's the easiest and fastest way to add and use drag and drop actions in ActionScript 3.0
+* [revisit](https://github.com/MoritzStefaner/revisit) - revisit is a real-time visualization of the latest twitter messages (tweets) around a specific topic. Use it create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by retweets and @replies. You will need Flash CS4 to compile the sources.
+* [robotlegs2-signals-feathers-flickr-example](https://github.com/thepalebluedot/robotlegs2-signals-feathers-flickr-example) - A simple architecture test for a Flickr gallery application based on Robotlegs2, Feathers and Signals.
+* [BirdBase](https://github.com/vishvish/BirdBase) - AS3 Microsite Framework -  Birdbase is stable and we're about to launch a production site with it, so that seems like a good point to go 1.0. But we need to write some docs and guides to really hit that. And maybe some tests.
+* [ane-testflight](https://github.com/jlopez/ane-testflight) - TestFlight ANE
+* [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) - as3pathfinder is a Grid Path finding Library written on Action Script 3. It is finding shortest route from start point to end on a 2D grid for given map of obstacles. Utilizes Dijkstra's algorithm.
+* [node-flash-game](https://github.com/talltyler/node-flash-game) - testing out node.js for realtime flash games
+* [ActionScript-3-Development-Task-Contests](https://github.com/mikechambers/ActionScript-3-Development-Task-Contests) - Repository for files and submissions from the ActionScript 3 Development Task Contests
+* [Four-ways-to-link-a-list](https://github.com/richardlord/Four-ways-to-link-a-list) - Performance test looking at four linked list architectures for Actionscript 3
