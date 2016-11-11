@@ -282,6 +282,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [iainlobb/Gamepad](https://github.com/iainlobb/Gamepad) - Gamepad simulates an analog joystick input using the keyboard. Many times when we access key presses, what we are really doing is pretending that WASD, the arrow keys or some other combination are actually a D-pad or joystick with an X and Y axis, and 1 or 2 fire buttons. Gamepad handles the event capture, maths and other details of this for you, so you only have to think about how you want your game to respond to this input.
 * [justjoeyuk/Advanced_Joystick](https://github.com/justjoeyuk/Advanced_Joystick) - A simple Joystick for the Starling Framework. Great for Mobile Use.
 * [StackAndHeap/joystick-ane](https://github.com/StackAndHeap/joystick-ane) - Adobe AIR Native Extension Joystick Library
+* [AlexanderOMara/AIRControl](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller Native Extension.
 
 ## Multimedia
 ### Camera
@@ -507,8 +508,12 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 ### Protocols
 
 * [LucasLorentz/AS3RtmpClient](https://github.com/LucasLorentz/AS3RtmpClient) - A proof of concept AS3 RtmpClient using sockets, based on Flazr.
-* [nexussays/git-as3](https://github.com/nexussays/git-as3) - A pure Actionscript implementation of git
+* [nexussays/git-as3](https://github.com/nexussays/git-as3) - A pure AS3 implementation of Git
 * [bluef/kuching](https://github.com/bluef/kuching) - a lightweight XMPP library for Actionscript 3
+* [mikkoh/AS3-Airplay](https://github.com/mikkoh/AS3-Airplay) - An implementation of Apple's Airplay written in Actionscript 3.
+* [borisreitman/CrossXHR](https://github.com/borisreitman/CrossXHR) - Cross Domain XHR: A drop-in replacement for XmlHttpRequest object.
+* [aemoncannon/croqodile](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol. Provides a simple framework for creating distributed, multi-user flash applications.
+* [yicui/BitTube-on-Flash](https://github.com/yicui/BitTube-on-Flash) - The new BitTube system based on the Adobe RTMFP protocol
 
 ### Email
 
@@ -1336,7 +1341,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [tomnewton/AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast actionscript 3 astar pathfinding algorithm.
 * [Jeffxz/nodeas](https://github.com/Jeffxz/nodeas) - Server side actionscript built on Tamarin.
 * [RandoriAS/randori-framework](https://github.com/RandoriAS/randori-framework) - Randori Framework for ActionScript
-* [mikkoh/AS3-Airplay](https://github.com/mikkoh/AS3-Airplay) - This is an implementation of Apple's Airplay written in Actionscript 3.
 * [aerys/monitor](https://github.com/aerys/monitor) - Lightweight customizable ActionScript 3.0 property monitor
 * [ryanstewart/GpxAS3](https://github.com/ryanstewart/GpxAS3) - GPX Library for ActionScript 3
 * [jakehilton/netconnectionsmart](https://github.com/jakehilton/netconnectionsmart) - A replacement class for the standard NetConnection actionscript class. This easily enables multiple port/protocol attempts to resolve at the best functioning connection.
@@ -1755,7 +1759,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [kyoji2/RobotGaiaAnt](https://github.com/kyoji2/RobotGaiaAnt) - Build website using Gaia Flash Framework + Robotlegs + Signals.
 * [kachurovskiy/Spark-Tree](https://github.com/kachurovskiy/Spark-Tree) - Spark Tree and AdvancedDataGrid
 * [StickSports/ANE-Can-Open-URL](https://github.com/StickSports/ANE-Can-Open-URL) - Air native extension for iOS to detect whether an app is installed to handle a specific URL scheme.
-* [borisreitman/CrossXHR](https://github.com/borisreitman/CrossXHR) - Cross Domain XHR: A drop-in replacement for XmlHttpRequest object.
 * [gskinner/SPL](https://github.com/gskinner/SPL) - Spelling Plus Library
 * [amacdougall/underscore.as](https://github.com/amacdougall/underscore.as) - An AS3 port of underscore.js
 * [sectore/ThunderBoltAS3](https://github.com/sectore/ThunderBoltAS3) - Original source of ThunderBolt  AS3
@@ -1845,7 +1848,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [bashi/exif-as3](https://github.com/bashi/exif-as3) - Exif reading library for AS3
 * [apenwarr/flashlight-vnc](https://github.com/apenwarr/flashlight-vnc) - A VNC viewer for Adobe Flash - forked from the official non-git version.
 * [AxGord/FD-Haxe-Up](https://github.com/AxGord/FD-Haxe-Up) - FlashDevelop Haxe projects templates and features
-* [AlexanderOMara/AIRControl](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller Native Extension.
 * [spicefactory/Spicelib-Reflect](https://github.com/spicefactory/Spicelib-Reflect) - AS3 Reflection Library
 * [odbol/OSCLib](https://github.com/odbol/OSCLib) - OSC Library for Android, Java and others using Apache Mina
 * [nesium/trazzlelib-as3](https://github.com/nesium/trazzlelib-as3) - Logging classes for Trazzle >= 1.5
@@ -1887,7 +1889,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [hbbalfred/guardians](https://github.com/hbbalfred/guardians) - the engine of guardians
 * [drewbourne/mock-as3](https://github.com/drewbourne/mock-as3) - go use Mockolate, its much better innit.
 * [aerys/minko-effects](https://github.com/aerys/minko-effects) - A set of rendering and post-processing for minko.
-* [aemoncannon/croqodile](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol. Provides a simple framework for creating distributed, multi-user flash applications.
 * [SimonRichardson/as3-eval](https://github.com/SimonRichardson/as3-eval) - ActionScript3 Code Evaluator using Tamarin ESC compiler.
 * [tamt/tInspector](https://github.com/tamt/tInspector) - Flash运行时界面调试工具
 * [slikland/LeapMotionAIR](https://github.com/slikland/LeapMotionAIR) - LeapMotion code to be used wir Adobe AIR AS3
@@ -1904,7 +1905,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [akio0911/hcrepos](https://github.com/akio0911/hcrepos) - Hacker's Cafe Repository
 * [AdamAtomic/Stellar](https://github.com/AdamAtomic/Stellar) - Abandoned prototype for a dynamically generated RPG overworld
 * [AdamAtomic/GraveRobbers](https://github.com/AdamAtomic/GraveRobbers) - My #LD48 entry, a sort of GIRP-inspired tower defense
-* [yicui/BitTube-on-Flash](https://github.com/yicui/BitTube-on-Flash) - The brand new BitTube system based on the Adobe RTMFP protocol
 * [tconkling/protoc-gen-as3](https://github.com/tconkling/protoc-gen-as3) - forked from https://code.google.com/p/protoc-gen-as3/
 * [silviopaganini/Cacilds](https://github.com/silviopaganini/Cacilds) - Cacilds AS3 Framework
 * [sdouglas/cadnano](https://github.com/sdouglas/cadnano) - software for design of three-dimensional DNA origami shapes
