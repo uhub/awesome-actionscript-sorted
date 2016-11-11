@@ -515,6 +515,8 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [MongoAS3](https://github.com/s9tpepper/MongoAS3) - AS3 Driver for mongoDB.
 * [soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 * [Firebase-ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
+* [kemsky/as3Query](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript
+* [zhangq0355/as3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
 
 ### Data Loader
 
@@ -1412,7 +1414,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [lizardon/CSV4AS3](https://github.com/lizardon/CSV4AS3) - CSV library for Actionscript ported from Apache Commons CSV
 * [kitschpatrol/FlashSpan](https://github.com/kitschpatrol/FlashSpan) - An ActionScript 3 library for spanning and synchronizing flash content across multiple computers and displays.
 * [keronas/AS3_platformer](https://github.com/keronas/AS3_platformer) - 2d platformer in Actionscript 3
-* [kemsky/as3Query](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript
 * [jeremyruppel/sass4as](https://github.com/jeremyruppel/sass4as) - Syntactically Awesome Stylesheets for ActionScript 3
 * [itarato/Kitten](https://github.com/itarato/Kitten) - Small Actionscript library for handling Drupal - Services communication
 * [hoblin/AS3-ASS-parser](https://github.com/hoblin/AS3-ASS-parser) - ActionScript parser for ASS format
@@ -1423,7 +1424,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [cyrta/JsFlashC](https://github.com/cyrta/JsFlashC) - Javascript <-> Flash (ActionScript) <-> Alchemy (C/C++) communication
 * [CrazyFlasher/domwires-as3](https://github.com/CrazyFlasher/domwires-as3) - ActionScript 3 Framework
 * [cotejp/Jmulator](https://github.com/cotejp/Jmulator) - An ActionScript 3 library to simplify working with keyboard emulators (aka encoders) such as those made by Ultimarc.
-* [zhangq0355/as3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
 * [Zae/AS3SudokuSolver](https://github.com/Zae/AS3SudokuSolver) - A SudokuSolver written in Actionscript 3
 * [tsukajizo/Framingo](https://github.com/tsukajizo/Framingo) - This is a framework made with ActionScript 3.0 for developing prototype application.
 * [StephanPartzsch/as3-airbrake-notifier](https://github.com/StephanPartzsch/as3-airbrake-notifier) - Library that sends crash reports from ActionScript 3 to airbrake (http://airbrake.io).
