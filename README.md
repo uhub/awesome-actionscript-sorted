@@ -51,7 +51,7 @@ engines.
 	* [Papervision3D](#papervision3d)
 	* [Other Engines](#other-engines)
 * Applications
-	* [Debugging Tool](#debugging-tool]
+	* [Debugging Tool](#debugging-tool)
 	* [Client Application](#client-application)
 * Utilities
 	* [Math](#math)
