@@ -23,6 +23,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [HTTP](#http)
 	* [P2P](#p2p)
 	* [Sockets](#sockets)
+	* [Protocols](#protocols)
 	* [Email](#email)
 	* [Database](#database)
 	* [Data Loader](#data-loader)
@@ -108,13 +109,11 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [renaun/QNXUIExamples](https://github.com/renaun/QNXUIExamples) - This is a set of example projects for building AIR application on the PlayBook with the QNX classes.
 * [kaltura/krecord](https://github.com/kaltura/krecord) - Flash Video and Audio Recording Widget for Kaltura. KRecord is a chromeless (no UI) Flash application that simplify webcam recording on websites, uploading the recordings to Kaltura.
 * [sectore/applicationupdaterui](https://github.com/sectore/applicationupdaterui) - Custom ApplicationUpdaterUI component for using AIR Update Framework in Flex 4
-* [videojuicer/stylekit-as3](https://github.com/videojuicer/stylekit-as3) -  An Actionscript 3 framework for creating user interfaces, using CSS3 for layout.
 * [kakenbok/ActionScript-DataProvider-Controls](https://github.com/kakenbok/ActionScript-DataProvider-Controls) - Library of standard user interface components
 * [oth-aw/materia-prima](https://github.com/oth-aw/materia-prima) - low-barrier open source graphical user interface, developed by University of Amberg-Weiden. You need actionscript skills and Adobe Flash knowledge.
 * [impaler/As3-Bloom](https://github.com/impaler/As3-Bloom) - Bloom is a light weight user interface framework for developers. Based on wonderful code from Xin Hou
 * [pbackx/ParallaxScrollingAS3](https://github.com/pbackx/ParallaxScrollingAS3) - A straightforward parallax scrolling demonstration in ActionScript 3, also shows embedding
 * [AllanBishop/Parallax-Scrolling](https://github.com/AllanBishop/Parallax-Scrolling) - A parallax scrolling engine for ActionScript 3.0
-* [larryhou/larrio](https://github.com/larryhou/larrio) - Actionscript 3.0 layout and scrolling framework
 * [theflashbum/BitmapScroller](https://github.com/theflashbum/BitmapScroller) - This is a small Blitting engine to scroll bitmaps of any size.
 * [thanksmister/as3scrollinglist](https://github.com/thanksmister/as3scrollinglist) - AS3 Scrolling List for Android and iOS devices
 * [freshplanet/Air-Mobile-ScrollController](https://github.com/freshplanet/Air-Mobile-ScrollController) - Everything you need to have scrolling in your Adobe Air application that feels native on mobile (iOS, Android)
@@ -160,7 +159,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [turbosqel/AMFEditor](https://github.com/turbosqel/AMFEditor) - Complex , expandable application ( Flex , AIR , actionscript 3 ) to create , edit , load/save files , download , data in AMF3 (action message format) .
 * [ManfredKarrer/nucleo.io](https://github.com/ManfredKarrer/nucleo.io) - nucleo.io is an ActionScript / Flex Library containing a scheduler micro-framework for easily configuring tasks to be executed in sequence, parallel or based on their data dependencies.
 * [ReDrUm/AS3-Classes](https://github.com/ReDrUm/AS3-Classes) - Actionscript 3.0 Classes to use with Flash and/or Flex
-* [riadvice/Flexine](https://github.com/riadvice/Flexine) - ActionScript 3 SQLite ORM for AIR
 * [qualidafial/bindage-tools](https://github.com/qualidafial/bindage-tools) - BindageTools data binding framework for Flex ActionScript 3
 * [riadvice/Ahilla](https://github.com/riadvice/Ahilla) - Actionscript 3 / Flex Hijri Calendar
 * [danielwanja/activeresource](https://github.com/danielwanja/activeresource) - A Flex/ActionScript Framework to integrate with Ruby on Rails. Provides Restful access to Rails including nested attributes.
@@ -262,6 +260,10 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [evan-liu/xrope](https://github.com/evan-liu/xrope) - Simple layout library for native as3 display objects.
 * [somerandomdude/coordy](https://github.com/somerandomdude/coordy) - coordy is a Flash layout toolkit that allows you to easily organize items in various layout patterns.
 * [develar/miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout to ActionScript, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager that makes layout problems trivial. It is using String or API type-checked constraints to format the layout. MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
+* [theflashbum/FBoxModel](https://github.com/theflashbum/FBoxModel) - A BoxModel display for Flash
+* [paulcoyle/lhasa](https://github.com/paulcoyle/lhasa) - Layout Handler for ActionScript Applications.  Basically a lower-level set of display related classes to automatically manage laying out child objects.
+* [videojuicer/stylekit-as3](https://github.com/videojuicer/stylekit-as3) -  An Actionscript 3 framework for creating user interfaces, using CSS3 for layout.
+* [larryhou/larrio](https://github.com/larryhou/larrio) - Actionscript 3.0 layout and scrolling framework
 
 ### Gestures
 
@@ -366,6 +368,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [guitarpoet/joyce](https://github.com/guitarpoet/joyce) - High performance ActionScript 3 Image loading and Processing Toolkit
 * [audreyt/as3gif](https://github.com/audreyt/as3gif) - AS3GIF lets you play and encode animated GIF's with ActionScript 3.
 * [hgupta9/InspiritImage](https://github.com/hgupta9/InspiritImage) - Actionscript 3.0 library for FFT, SURF, edge detection, fluid solver, etc
+* [theturtle32/Flash-Animated-GIF-Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - A wicked fast and robust AS3 library for playing Animated GIFs in Flash.
 
 ### QR Code
 
@@ -493,7 +496,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [sinnus/socket.io-flash](https://github.com/sinnus/socket.io-flash) - Flash client for Socket.IO server
 * [GulDmitry/php-websocket-server](https://github.com/GulDmitry/php-websocket-server) - PHP WebSocket Server for PHP 5.3
 * [maacl/aleph-ws-test](https://github.com/maacl/aleph-ws-test) - Small chat-app to test Aleph websocket support.
-* [LucasLorentz/AS3RtmpClient](https://github.com/LucasLorentz/AS3RtmpClient) - A proof of concept AS3 RtmpClient using sockets, based on Flazr.
 * [suxianbaozi/websocket4ie](https://github.com/suxianbaozi/websocket4ie) - 基于flash内核，让ie6也能用websocket，完全回调js，flash不处理任何ui
 * [atanasov/FlexWebSocketDemo](https://github.com/atanasov/FlexWebSocketDemo) - flex AIR app - socket.io client
 * [theturtle32/AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455
@@ -501,6 +503,12 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [wouterverweirder/AIR-Server](https://github.com/wouterverweirder/AIR-Server) - Socket Server library for Adobe AIR
 * [youurayy/ws-flash-client](https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (uses Adobe Flash where native WebSocket is not available)
 * [nihen/JSocket](https://github.com/nihen/JSocket) - Socket on Javascript (uses flash)
+
+### Protocols
+
+* [LucasLorentz/AS3RtmpClient](https://github.com/LucasLorentz/AS3RtmpClient) - A proof of concept AS3 RtmpClient using sockets, based on Flazr.
+* [nexussays/git-as3](https://github.com/nexussays/git-as3) - A pure Actionscript implementation of git
+* [bluef/kuching](https://github.com/bluef/kuching) - a lightweight XMPP library for Actionscript 3
 
 ### Email
 
@@ -517,6 +525,9 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [Firebase-ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 * [kemsky/as3Query](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript
 * [zhangq0355/as3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
+* [dkeskar/airdb](https://github.com/dkeskar/airdb) - ActionScript AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations.
+* [buzzware/worm](https://github.com/buzzware/worm) - An ORM and SQL generation framework for ActionScript inspired by jQuery
+* [riadvice/Flexine](https://github.com/riadvice/Flexine) - ActionScript 3 SQLite ORM for AIR
 
 ### Data Loader
 
@@ -1244,7 +1255,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [kclay/as3-googleplus](https://github.com/kclay/as3-googleplus) - Google Plus api for As3
 * [vitch/GoogleMapsFlashCluster](https://github.com/vitch/GoogleMapsFlashCluster) - An implementation of clustering for the google maps api for flash
 * [rknrl/asocial](https://github.com/rknrl/asocial) - One common ActionScript interface to interact with social networks (Vkontakte, Odnoklassniki, MoiMir, Fotostrana, Facebook) on Web, iOS & Android
-* [dkeskar/airdb](https://github.com/dkeskar/airdb) - ActionScript AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations.
 * [lyokato/as3xmppclient](https://github.com/lyokato/as3xmppclient) - ActionScript 3.0 XMPP client library
 * [ktbs/ktbs4as](https://github.com/ktbs/ktbs4as) - ActionScript client library for kTBS
 * [pperon/gliese-client-as3-demo](https://github.com/pperon/gliese-client-as3-demo) - An ActionScript 3 demo app for GlieseWorld.
@@ -1429,9 +1439,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [StephanPartzsch/as3-airbrake-notifier](https://github.com/StephanPartzsch/as3-airbrake-notifier) - Library that sends crash reports from ActionScript 3 to airbrake (http://airbrake.io).
 * [ripcurlx/make-it-easy-as3](https://github.com/ripcurlx/make-it-easy-as3) - A tiny framework that makes it easy to write Test Data Builders in ActionScript 3
 * [primalscreen/as3](https://github.com/primalscreen/as3) - Actionscript 3
-* [paulcoyle/lhasa](https://github.com/paulcoyle/lhasa) - Layout Handler for ActionScript Applications.  Basically a lower-level set of display related classes to automatically manage laying out child objects.
 * [patrickbay/SwAG](https://github.com/patrickbay/SwAG) - Swiss Army Gear (SwAG) Toolkit for ActionScript 3
-* [nexussays/git-as3](https://github.com/nexussays/git-as3) - A pure Actionscript implementation of git
 * [mraak/AS-Spreadsheet](https://github.com/mraak/AS-Spreadsheet) - ActionScript based spreadsheet component and calculation logic
 * [moredip/TickTock](https://github.com/moredip/TickTock) - silly little ActionScript stopwatch/profiler/timer/benchmarker
 * [MMOld/Temple](https://github.com/MMOld/Temple) - Temple Library for ActionScript 3.0 by MediaMonks
@@ -1502,8 +1510,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [classicist/actionscript-3-textmate-bundle](https://github.com/classicist/actionscript-3-textmate-bundle) - my own mod of the actionscript 3 textmate bundle
 * [charad/as3](https://github.com/charad/as3) - ActionScript projects
 * [cccaldas/as3-interpreter](https://github.com/cccaldas/as3-interpreter) - Actionscript 3.0 interpreter for mac osx terminal.
-* [buzzware/worm](https://github.com/buzzware/worm) - An ORM and SQL generation framework for ActionScript inspired by jQuery
-* [bluef/kuching](https://github.com/bluef/kuching) - a lightweight XMPP library for Actionscript 3
 * [blockforest/stagexl-converter-pubrun](https://github.com/blockforest/stagexl-converter-pubrun) - Helps converting pure Actionscript to StageXL/Dart. 'pub run' Edition.
 * [betterMDS/dx-as3](https://github.com/betterMDS/dx-as3) - The ActionScript used for dx-media
 * [babyfaction/ClsCreator](https://github.com/babyfaction/ClsCreator) - An ActionScript code generate lib
@@ -1748,7 +1754,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [migurski/modestmaps-as3](https://github.com/migurski/modestmaps-as3) - Modest Maps actionscript3 port
 * [kyoji2/RobotGaiaAnt](https://github.com/kyoji2/RobotGaiaAnt) - Build website using Gaia Flash Framework + Robotlegs + Signals.
 * [kachurovskiy/Spark-Tree](https://github.com/kachurovskiy/Spark-Tree) - Spark Tree and AdvancedDataGrid
-* [theturtle32/Flash-Animated-GIF-Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - A wicked fast and robust AS3 library for playing Animated GIFs in Flash.
 * [StickSports/ANE-Can-Open-URL](https://github.com/StickSports/ANE-Can-Open-URL) - Air native extension for iOS to detect whether an app is installed to handle a specific URL scheme.
 * [borisreitman/CrossXHR](https://github.com/borisreitman/CrossXHR) - Cross Domain XHR: A drop-in replacement for XmlHttpRequest object.
 * [gskinner/SPL](https://github.com/gskinner/SPL) - Spelling Plus Library
@@ -1828,7 +1833,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [mrinalwadhwa/crayons.data.binding](https://github.com/mrinalwadhwa/crayons.data.binding) - Data Binding using Signals
 * [jessefreeman/FActivity](https://github.com/jessefreeman/FActivity) - F*Activity is my take on implementing Android’s Activity based application model in Flash.
 * [hotchpotch/as3rails2u](https://github.com/hotchpotch/as3rails2u) - my as3 library
-* [theflashbum/FBoxModel](https://github.com/theflashbum/FBoxModel) - A BoxModel display for Flash
 * [phmongeau/Ogmo-Basic-Flixel](https://github.com/phmongeau/Ogmo-Basic-Flixel) - Basic usage of Ogmo with flixel
 * [lucasdupin/Simple-AS3-YAML](https://github.com/lucasdupin/Simple-AS3-YAML) - Simple YAML parser/decoder
 * [lilili87222/as3-air-ad-network-framework](https://github.com/lilili87222/as3-air-ad-network-framework) - A flash lib to manage variety of ad networks advertising in flash air mobile applications run on ios and android,like admob ,iad,chartboost and inmobi ,simple like adwhil but not need server.just need download admob ane ,iad ane,inmobi ane and chatboost ane and other ane with several line as3 code.enjoy it aser
