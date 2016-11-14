@@ -46,13 +46,15 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [Animation Framework](#animation-framework)
 	* [Functional Programming](#functional-programming)
 	* [Unit Testing](#unit-testing)
-	* [Game Engine](#game-engine)
-	* [Game AI](#game-ai)
 * 3D Engines
 	* [Away3D](#away3d)
 	* [Alternativa3D](#alternativa3d)
 	* [Papervision3D](#papervision3d)
 	* [Other Engines](#other-engines)
+* Video Games
+	* [Games](#games)
+	* [Game Engine](#game-engine)
+	* [Game AI](#game-ai)
 * Native Extension
 	* [Multimedia ANE](#multimedia-ane)
 	* [File System ANE](#file-system-ane)
@@ -60,12 +62,11 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [System ANE](#system-ane)
 	* [Social ANE](#social-ane)
 	* [API ANE](#api-ane)
-* Apps & Games
+* Apps & Tools
 	* [Development Tool](#development-tool)
 	* [Debugging Tool](#debugging-tool)
 	* [Client App](#client-app)
 	* [Editor App](#editor-app)
-	* [Video Game](#video-game)
 * Utilities
 	* [Math](#math)
 	* [Physics](#physics)
@@ -775,6 +776,94 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [mockolate](https://github.com/drewbourne/mockolate) - fake chocolate, mock objects and test spies for AS3
 * [flexspec](https://github.com/BLC/flexspec) - Flex testing library with a more RSpec style syntax then a TestUnit one
 
+## 3D Engines
+
+### Away3D
+
+* [Away3D FP11](https://github.com/away3d/away3d-core-fp11) - Away3D engine for Flash Player 11
+* [Away3D FP10](https://github.com/away3d/away3d-core-fp10) - Away3D engine for Flash Player 10
+* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for OpenFl is a port of the Flash Away3D engine, enabling targetting Flash, Neko, HTML5 and native CPP builds for OSX, Windows, iOS, Android, etc.
+* [Away3D Broomstick](https://github.com/away3d/away3d-core-broomstick) - Away3D engine for Flash Player Incubator
+* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D Engine in Flash Player 11
+* [AwayPhysics Examples FP11](https://github.com/away3d/awayphysics-examples-fp11) - Actionscript examples for use with the AwayPhysics library in Flash Player 11
+* [Away3DLite FP10](https://github.com/away3d/away3dlite-core-fp10) - Away3DLite engine for Flash Player 10
+* [Away3DLite Haxe](https://github.com/away3d/away3dlite-core-haxe) - Away3DLite engine for HaXe
+* [Away3D examples FP9](https://github.com/away3d/away3d-examples-fp9) - Actionscript examples for use with the Away3D engine for Flash Player 9
+* [Away3D examples FP11](https://github.com/away3d/away3d-examples-fp11) - Actionscript examples for use with the Away3D engine for Flash Player 11
+* [Away3D examples FP10](https://github.com/away3d/away3d-examples-fp10) - Actionscript examples for use with the Away3D engine for Flash Player 10
+* [Away3D examples OpenFL](https://github.com/away3d/away3d-examples-openfl) - Actionscript examples for use with the Away3D OpenFL
+* [Away3D examples Broomstick](https://github.com/away3d/away3d-examples-broomstick) - Actionscript examples for use with the Away3D engine for Flash Player Incubator
+* [Away3DLite examples FP10](https://github.com/away3d/away3dlite-examples-fp10) - Actionscript examples for use with the Away3DLite engine for Flash Player 10
+
+### Alternativa3D
+
+* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D Flash GPU accelerated 3D engine
+* [Alternativa3DExamples](https://github.com/AlternativaPlatform/Alternativa3DExamples) - Examples for Alternativa3D Flash 3D engine
+
+### Papervision3D
+
+* [Papervision3D](https://github.com/Papervision3D/Papervision3D) - A Real-Time 3D Engine for Flash Player 10
+* [ActionScript-Papervision3D-Simulation](https://github.com/den258/ActionScript-Papervision3D-Simulation) - Papervision3D Simulation by ActionScript
+* [papervision3d](https://github.com/timknip/papervision3d) - Papervision3D - 3.0
+
+## Video Games
+
+## Games
+
+* [Hungry-Hero](https://github.com/hsharma/Hungry-Hero) - Hungry Hero is an open source Flash game built on Starling Framework.
+* [Reversi](https://github.com/cantrell/Reversi) - A simple Reversi game written in ActionScript. It's designed to run on any device that supports Flash/AIR, regardless of screen size. For instructions on building the Reversi projects, see the Reversi Wiki.
+* [pacman](https://github.com/boyander/pacman) - Implementation of Pacman game in ActionScript 3 for Universitat Politécnica de Catalunya  in subject of Continguts Multimedia (November 2012 - January 2013)
+* [codename-lumberjack](https://github.com/arkeus/codename-lumberjack) - Codename Lumberjack is a simple flash game written using Actionscript 3.0 and Flixel.
+* [blue-karma-as3](https://github.com/smks/blue-karma-as3) - A Point and Touch Actionscript game built with Starling
+* [RunAlong](https://github.com/robbiehunt/RunAlong) - First game I have completed enough to let other people play! RunAlong is a two-button action game (similar to Canabalt or Robot Unicorn Attack) written in ActionScript 3 using the Flixel 2D engine. Copy the src/ and assets/ folders to your project and check it out. Appologies for the messiness
+* [HitBrick_by_AS3](https://github.com/Hill1942/HitBrick_by_AS3) - This is an easy brick-hit game developed by actionscript 3 with starling 3-d hardware accelerating feature
+* [MarsLander](https://github.com/charlescapps/MarsLander) - Improvement on classic moon lander game, Actionscript 3.0
+* [DOR](https://github.com/sleep2death/DOR) - An isometric game which is written by actionscript 3.
+* [iGemOttawa](https://github.com/rcr/iGemOttawa) - Synthetic biology puzzle game written in ActionScript 3 for the 2011 iGem Competition
+* [Dungeon-Dweller](https://github.com/MarcinMM/Dungeon-Dweller) - An inverse roguelike game written in Actionscript.
+* [AS3-PacMan](https://github.com/tito97/FlashDevelop-AS3-PacMan) - This is a simple pac-man game that I'm trying to create with FlashDevelop with Actionscript 3
+* [PeaHead](https://github.com/StuartCoope/PeaHead) - Personal project messing about with Actionscript. A none too serious flash game
+* [astro-panic](https://github.com/stannesi/astro-panic) - .: a mini flash space shooting game written with ActionScript :.
+* [Hangman](https://github.com/st15/Hangman) - Word game for mobile devices built using ActionScript 3, Adobe AIR, Starling and Feathers.
+* [StarOrchestra](https://github.com/raohmaru/StarOrchestra) - An ActionScript 3 game for touch based devices
+* [Pacman](https://github.com/nrome/Pacman) - Vector based pacman game built with Actionscript
+* [AdmiralGobi](https://github.com/mandeeps/AdmiralGobi) - Flash game written in ActionScript 3 with FlashPunk framework, compiled with mxmlc from Flex SDK
+* [TankWar](https://github.com/Just89/TankWar) - A Actionscript 3 prototype game made with Adobe Air for tablets in FlashDevelop
+* [MazeMan](https://github.com/Just89/MazeMan) - Small Actionscript 3 game with random Maze generator made in FlashDevelop
+* [grow21](https://github.com/grapefrukt/grow21) - actionscript implementation of the card game grow21
+* [Night-Sunrise](https://github.com/felipi/Night-Sunrise) - Actionscript 3 game project.
+* [anoddspace](https://github.com/djenkins35/anoddspace) - Actionscript 3 Real-time strategy / top down space game
+* [PlaneGame](https://github.com/DavidMah/PlaneGame) - Touhou wannabe game with Actionscript for a tiny credit web programming optional assignment
+* [Memory](https://github.com/darylducharme/Memory) - A version of a Memory game in actionscript
+* [croissant](https://github.com/ChrisJan00/croissant) - "Eat the croissant", an actionscript game inspired by "don't shit your pants"
+* [kingdom](https://github.com/noio/kingdom) - A minimal game.
+* [Ending](https://github.com/st33d/Ending) - Roguelike puzzle game
+* [pewpew](https://github.com/mikechambers/pewpew) - Flash based space shooter game
+* [EZPlatformer](https://github.com/AdamAtomic/EZPlatformer) - A simple platforming game - collect coins and reach the exit to win.  VERY SIMPLE.
+* [MrWARP-clone](https://github.com/tatsuya-koyama/MrWARP-clone) - Multiplatform mini shooter-like game with Adobe AIR
+* [A-House-in-California](https://github.com/jakevsrobots/A-House-in-California) - A point and click art game about nostalgia, family and memory. Finalist for the Nuovo Award at the 2011 IGF. Also featured in the Learn to Play show at Euhprat Museum of Art and the Meaningful Play 2010 conference.  Made with Flixel.
+* [FlxFrogger](https://github.com/gamecook/FlxFrogger) - This is Flash Frogger built with Flixel and created to run in AIR on Android.
+* [Flx-Invaders](https://github.com/AdamAtomic/Flx-Invaders) - A very simple flixel game inspired by the Taito classic.
+* [I-Can-Hold-My-Breath-Forever](https://github.com/jakevsrobots/I-Can-Hold-My-Breath-Forever) - A game for the Experimental Gameplay Project's "10 Seconds" friendly competition (for March 2010).  Made with Flixel.
+* [Bomber-Planet](https://github.com/AdamAtomic/Bomber-Planet) - The (sloppy) source code for a top-down 2D action-adventure game made with Flixel.
+* [Loneliness](https://github.com/JordanMagnuson/Loneliness) - An experimental, minimalistic microgame about loneliness, made for the Korean middle school students I taught for a year.
+* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - A very simple flixel game inspired by the classic arcade shooter.
+* [PickQuick](https://github.com/renaun/PickQuick) - AIR based game deployable across mobile devices
+* [FRogue](https://github.com/gamecook/FRogue) - A simple Flash Rogue engine. Generates random maps, movement and basic combat.
+* [CellGame](https://github.com/larsiusprime/CellGame--Open-Source-fork-of--CellCraft--) - A real-time strategy game that incorporates real cellular Biology. Grow your cell and fight off viruses!
+* [MatchHack](https://github.com/gamecook/MatchHack) - MatchHack is a simple memory matching RPG for kids.
+* [CodeBummer](https://github.com/gamecook/CodeBummer) - A remake of the classic Frogger. This time you are a homeless developer looking for clients.
+* [Islands-of-Empire](https://github.com/jaybaird/Islands-of-Empire) - Islands of Empire is an AS3 game using FlashPunk
+* [Whack](https://github.com/byxb/Whack) - Whack Game Starling Project for Flash Player 11
+* [LightStage](https://github.com/raphydaphy/LightStage) - LightStage is a strategy game programmed in actionscript 3 where players position mirrors, prisms and more to deflect light into globes, which fills them up.
+* [PhysicsCannon](https://github.com/zfoley/PhysicsCannonGameSource) - Full game source of Box2D v 2.1a Physics Cannon game
+* [nape-game](https://github.com/headshote/nape-game) - Simple actionscript 3.0 game made with use of nape physics engine, features car with shock absorbers
+* [pyroshapes](https://github.com/tom-wr/pyroshapes) - A physics puzzle game built using ActionScript and Box2D AS3
+* [Geometry-Wars-Clone](https://github.com/Ted-Mediacollege/Geometry-Wars-Clone-Flash) - A geometry wars clone written in actionscript 3 air (starling + AGAL)
+* [FlexTTD](https://github.com/karto/FlexTTD) - an open source clone of the Microprose game "Transport Tycoon Deluxe"
+* [AS3-Example-Games](https://github.com/videlais/ActionScript3-Example-Games) - Flixel-based ActionScript 3 game examples
+* [Mode](https://github.com/AdamAtomic/Mode) - A small (but sadly not that simple) demo game built on the flixel framework.  Hopefully it will become kind of obsolete with the creation of more targeted, simple, and smaller open source demo games!
+
 ### Game Engine
 
 * [FlashPunk](https://github.com/useflashpunk/FlashPunk) - A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.
@@ -820,7 +909,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [Ogmo-Editor](https://github.com/MattThorson/Ogmo-Editor) - Generic level and tilemap editor for indie game developers!
 * [Ember](https://github.com/tdavies/Ember) - Flash component based entity system framework for game development
 * [DAME](https://github.com/XanderXevious/DAME) - Deadly Alien Map Editor - for 2D and isometric games.
-* [Mode](https://github.com/AdamAtomic/Mode) - A small (but sadly not that simple) demo game built on the flixel framework.  Hopefully it will become kind of obsolete with the creation of more targeted, simple, and smaller open source demo games!
 * [Anthill-Framework](https://github.com/AntKarlov/Anthill-Framework) - Tiny framework for creating Flash games.
 * [Simple-Game-Framework](https://github.com/mikechambers/Simple-Game-Framework) - An open source simple game framework that I use for my own games.
 * [QuadtreeSprite-Extension](https://github.com/justpinegames/QuadtreeSprite-Extension) - QuadtreeSprite extensions for Starling. Enables efficient handling of large number of children DisplayObjects.
@@ -852,36 +940,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [DecisionTree](https://github.com/pzUH/DecisionTree) - An ActionScript 3.0 binary decision tree for AI bot/agent in a video games
 * [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - An implementation of Fuzzy State Machine (FuSM) in ActionScript 3.0 for AI bot/agent in a video games
 * [SmartKid](https://github.com/skyfeiyun/SmartKid) - SmartKid is a powerful AI engine for 2D&3D with actionScript. The project is especially for the 3D engine Nest3D.
-
-## 3D Engines
-
-### Away3D
-
-* [Away3D FP11](https://github.com/away3d/away3d-core-fp11) - Away3D engine for Flash Player 11
-* [Away3D FP10](https://github.com/away3d/away3d-core-fp10) - Away3D engine for Flash Player 10
-* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for OpenFl is a port of the Flash Away3D engine, enabling targetting Flash, Neko, HTML5 and native CPP builds for OSX, Windows, iOS, Android, etc.
-* [Away3D Broomstick](https://github.com/away3d/away3d-core-broomstick) - Away3D engine for Flash Player Incubator
-* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D Engine in Flash Player 11
-* [AwayPhysics Examples FP11](https://github.com/away3d/awayphysics-examples-fp11) - Actionscript examples for use with the AwayPhysics library in Flash Player 11
-* [Away3DLite FP10](https://github.com/away3d/away3dlite-core-fp10) - Away3DLite engine for Flash Player 10
-* [Away3DLite Haxe](https://github.com/away3d/away3dlite-core-haxe) - Away3DLite engine for HaXe
-* [Away3D examples FP9](https://github.com/away3d/away3d-examples-fp9) - Actionscript examples for use with the Away3D engine for Flash Player 9
-* [Away3D examples FP11](https://github.com/away3d/away3d-examples-fp11) - Actionscript examples for use with the Away3D engine for Flash Player 11
-* [Away3D examples FP10](https://github.com/away3d/away3d-examples-fp10) - Actionscript examples for use with the Away3D engine for Flash Player 10
-* [Away3D examples OpenFL](https://github.com/away3d/away3d-examples-openfl) - Actionscript examples for use with the Away3D OpenFL
-* [Away3D examples Broomstick](https://github.com/away3d/away3d-examples-broomstick) - Actionscript examples for use with the Away3D engine for Flash Player Incubator
-* [Away3DLite examples FP10](https://github.com/away3d/away3dlite-examples-fp10) - Actionscript examples for use with the Away3DLite engine for Flash Player 10
-
-### Alternativa3D
-
-* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D Flash GPU accelerated 3D engine
-* [Alternativa3DExamples](https://github.com/AlternativaPlatform/Alternativa3DExamples) - Examples for Alternativa3D Flash 3D engine
-
-### Papervision3D
-
-* [Papervision3D](https://github.com/Papervision3D/Papervision3D) - A Real-Time 3D Engine for Flash Player 10
-* [ActionScript-Papervision3D-Simulation](https://github.com/den258/ActionScript-Papervision3D-Simulation) - Papervision3D Simulation by ActionScript
-* [papervision3d](https://github.com/timknip/papervision3d) - Papervision3D - 3.0
 
 ### Other Engines
 
@@ -975,7 +1033,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [ANE-testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
 * [Chartboost ANE](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
 
-## Apps & Games
+## Apps & Tools
 
 ### Development Tool
 
@@ -1021,61 +1079,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [opentshirts](https://github.com/opentshirts/opentshirts) - Opentshirts is the free open source t-shirt design software for eCommerce.
 * [QNXUIExamples](https://github.com/renaun/QNXUIExamples) - This is a set of example projects for building AIR application on the PlayBook with the QNX classes.
 * [krecord](https://github.com/kaltura/krecord) - KRecord is a chromeless (no UI) Flash application that simplify webcam recording on websites, uploading the recordings to Kaltura.
-
-### Video Game
-
-* [Reversi](https://github.com/cantrell/Reversi) - A simple Reversi game written in ActionScript. It's designed to run on any device that supports Flash/AIR, regardless of screen size. For instructions on building the Reversi projects, see the Reversi Wiki.
-* [pacman](https://github.com/boyander/pacman) - Implementation of Pacman game in ActionScript 3 for Universitat Politécnica de Catalunya  in subject of Continguts Multimedia (November 2012 - January 2013)
-* [codename-lumberjack](https://github.com/arkeus/codename-lumberjack) - Codename Lumberjack is a simple flash game written using Actionscript 3.0 and Flixel.
-* [ActionScript3-Example-Games](https://github.com/videlais/ActionScript3-Example-Games) - Flixel-based ActionScript 3 game examples
-* [blue-karma-as3](https://github.com/smks/blue-karma-as3) - A Point and Touch Actionscript game built with Starling
-* [RunAlong](https://github.com/robbiehunt/RunAlong) - First game I have completed enough to let other people play! RunAlong is a two-button action game (similar to Canabalt or Robot Unicorn Attack) written in ActionScript 3 using the Flixel 2D engine. Copy the src/ and assets/ folders to your project and check it out. Appologies for the messiness
-* [HitBrick_by_AS3](https://github.com/Hill1942/HitBrick_by_AS3) - This is an easy brick-hit game developed by actionscript 3 with starling 3-d hardware accelerating feature
-* [MarsLander](https://github.com/charlescapps/MarsLander) - Improvement on classic moon lander game, Actionscript 3.0
-* [DOR](https://github.com/sleep2death/DOR) - An isometric game which is written by actionscript 3.
-* [iGemOttawa](https://github.com/rcr/iGemOttawa) - Synthetic biology puzzle game written in ActionScript 3 for the 2011 iGem Competition
-* [Dungeon-Dweller](https://github.com/MarcinMM/Dungeon-Dweller) - An inverse roguelike game written in Actionscript.
-* [AS3-PacMan](https://github.com/tito97/FlashDevelop-AS3-PacMan) - This is a simple pac-man game that I'm trying to create with FlashDevelop with Actionscript 3
-* [PeaHead](https://github.com/StuartCoope/PeaHead) - Personal project messing about with Actionscript. A none too serious flash game
-* [astro-panic](https://github.com/stannesi/astro-panic) - .: a mini flash space shooting game written with ActionScript :.
-* [Hangman](https://github.com/st15/Hangman) - Word game for mobile devices built using ActionScript 3, Adobe AIR, Starling and Feathers.
-* [StarOrchestra](https://github.com/raohmaru/StarOrchestra) - An ActionScript 3 game for touch based devices
-* [Pacman](https://github.com/nrome/Pacman) - Vector based pacman game built with Actionscript
-* [AdmiralGobi](https://github.com/mandeeps/AdmiralGobi) - Flash game written in ActionScript 3 with FlashPunk framework, compiled with mxmlc from Flex SDK
-* [TankWar](https://github.com/Just89/TankWar) - A Actionscript 3 prototype game made with Adobe Air for tablets in FlashDevelop
-* [MazeMan](https://github.com/Just89/MazeMan) - Small Actionscript 3 game with random Maze generator made in FlashDevelop
-* [grow21](https://github.com/grapefrukt/grow21) - actionscript implementation of the card game grow21
-* [Night-Sunrise](https://github.com/felipi/Night-Sunrise) - Actionscript 3 game project.
-* [anoddspace](https://github.com/djenkins35/anoddspace) - Actionscript 3 Real-time strategy / top down space game
-* [PlaneGame](https://github.com/DavidMah/PlaneGame) - Touhou wannabe game with Actionscript for a tiny credit web programming optional assignment
-* [Memory](https://github.com/darylducharme/Memory) - A version of a Memory game in actionscript
-* [croissant](https://github.com/ChrisJan00/croissant) - "Eat the croissant", an actionscript game inspired by "don't shit your pants"
-* [Hungry-Hero](https://github.com/hsharma/Hungry-Hero) - Hungry Hero is an open source Flash game built on Starling Framework.
-* [kingdom](https://github.com/noio/kingdom) - A minimal game.
-* [Ending](https://github.com/st33d/Ending) - Roguelike puzzle game
-* [pewpew](https://github.com/mikechambers/pewpew) - Flash based space shooter game
-* [EZPlatformer](https://github.com/AdamAtomic/EZPlatformer) - A simple platforming game - collect coins and reach the exit to win.  VERY SIMPLE.
-* [MrWARP-clone](https://github.com/tatsuya-koyama/MrWARP-clone) - Multiplatform mini shooter-like game with Adobe AIR
-* [A-House-in-California](https://github.com/jakevsrobots/A-House-in-California) - A point and click art game about nostalgia, family and memory. Finalist for the Nuovo Award at the 2011 IGF. Also featured in the Learn to Play show at Euhprat Museum of Art and the Meaningful Play 2010 conference.  Made with Flixel.
-* [FlxFrogger](https://github.com/gamecook/FlxFrogger) - This is Flash Frogger built with Flixel and created to run in AIR on Android.
-* [Flx-Invaders](https://github.com/AdamAtomic/Flx-Invaders) - A very simple flixel game inspired by the Taito classic.
-* [I-Can-Hold-My-Breath-Forever](https://github.com/jakevsrobots/I-Can-Hold-My-Breath-Forever) - A game for the Experimental Gameplay Project's "10 Seconds" friendly competition (for March 2010).  Made with Flixel.
-* [Bomber-Planet](https://github.com/AdamAtomic/Bomber-Planet) - The (sloppy) source code for a top-down 2D action-adventure game made with Flixel.
-* [Loneliness](https://github.com/JordanMagnuson/Loneliness) - An experimental, minimalistic microgame about loneliness, made for the Korean middle school students I taught for a year.
-* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - A very simple flixel game inspired by the classic arcade shooter.
-* [PickQuick](https://github.com/renaun/PickQuick) - AIR based game deployable across mobile devices
-* [FRogue](https://github.com/gamecook/FRogue) - A simple Flash Rogue engine. Generates random maps, movement and basic combat.
-* [CellGame](https://github.com/larsiusprime/CellGame--Open-Source-fork-of--CellCraft--) - A real-time strategy game that incorporates real cellular Biology. Grow your cell and fight off viruses!
-* [MatchHack](https://github.com/gamecook/MatchHack) - MatchHack is a simple memory matching RPG for kids.
-* [CodeBummer](https://github.com/gamecook/CodeBummer) - A remake of the classic Frogger. This time you are a homeless developer looking for clients.
-* [Islands-of-Empire](https://github.com/jaybaird/Islands-of-Empire) - Islands of Empire is an AS3 game using FlashPunk
-* [Whack](https://github.com/byxb/Whack) - Whack Game Starling Project for Flash Player 11
-* [LightStage](https://github.com/raphydaphy/LightStage) - LightStage is a strategy game programmed in actionscript 3 where players position mirrors, prisms and more to deflect light into globes, which fills them up.
-* [PhysicsCannon](https://github.com/zfoley/PhysicsCannonGameSource) - Full game source of Box2D v 2.1a Physics Cannon game
-* [nape-game](https://github.com/headshote/nape-game) - Simple actionscript 3.0 game made with use of nape physics engine, features car with shock absorbers
-* [pyroshapes](https://github.com/tom-wr/pyroshapes) - A physics puzzle game built using ActionScript and Box2D AS3
-* [Geometry-Wars-Clone](https://github.com/Ted-Mediacollege/Geometry-Wars-Clone-Flash) - A geometry wars clone written in actionscript 3 air (starling + AGAL)
-* [FlexTTD](https://github.com/karto/FlexTTD) - an open source clone of the Microprose game "Transport Tycoon Deluxe"
 
 ## Utilities
 ### Math
