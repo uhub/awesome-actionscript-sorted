@@ -46,6 +46,13 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [Animation Framework](#animation-framework)
 	* [Functional Programming](#functional-programming)
 	* [Unit Testing](#unit-testing)
+* Native Extension
+	* [Multimedia ANE](#multimedia-ane)
+	* [File System ANE](#file-system-ane)
+	* [Hardware ANE](#hardware-ane)
+	* [System ANE](#system-ane)
+	* [Social ANE](#social-ane)
+	* [API ANE](#api-ane)
 * 3D Engines
 	* [Away3D](#away3d)
 	* [Alternativa3D](#alternativa3d)
@@ -55,13 +62,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 	* [Games](#games)
 	* [Game Engine](#game-engine)
 	* [Game AI](#game-ai)
-* Native Extension
-	* [Multimedia ANE](#multimedia-ane)
-	* [File System ANE](#file-system-ane)
-	* [Hardware ANE](#hardware-ane)
-	* [System ANE](#system-ane)
-	* [Social ANE](#social-ane)
-	* [API ANE](#api-ane)
 * Apps & Tools
 	* [Development Tool](#development-tool)
 	* [Debugging Tool](#debugging-tool)
@@ -776,6 +776,64 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [mockolate](https://github.com/drewbourne/mockolate) - fake chocolate, mock objects and test spies for AS3
 * [flexspec](https://github.com/BLC/flexspec) - Flex testing library with a more RSpec style syntax then a TestUnit one
 
+## Native Extension
+
+### Multimedia ANE
+* [WebView ANE](https://github.com/myflashlab/webView-ANE) - perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from flash and send String messages from JS to flash.
+* [PDF-ANE](https://github.com/myflashlab/PDF-ANE) - Pdf Viewer ANE lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS
+* [SongPicker ANE](https://github.com/richpixel/SongPickerANE) - A song picker/player ANE for iOS and Android.
+* [VideoPlayer ANE](https://github.com/myflashlab/videoPlayer-ANE) - video player ANE supported on Android and iOS 64-bit let's you play video files in android or iOS players. your videos can be locally availble on your device or they can be online. in the sample codes we have also used our YouTube link parser found here: https://github.com/myflashlab/AS3-youtube-parser-video-link/ and with that you can easily play YouTube videos too.
+* [SurfaceVideoPlayer-ANE](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects
+* [AR-ANE](https://github.com/myflashlab/AR-ANE-Samples) - MyAR is an AR ANE supporting Android and iOS 64-bit based on Metaio's SDK.
+* [qr-zbar ANE](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader
+* [barcode-ANE](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE
+* [SilentSwitch ANE](https://github.com/StickSports/ANE-Silent-Switch) - ANE for iOS to mute sounds if the hardware silent switch is on.
+* [VolumePro-ANE](https://github.com/myflashlab/VolumePro-ANE) - This ANE is a must have ANE for you in every game you are developing. It will not only let you control the native music stream volume, you can listen to the volume changes
+* [SystemVolume-ANE](https://github.com/nweber/SystemVolumeNativeExtension) - An AIR native extension to interact with the system volume for iOS and Android devices.
+* [bullet-ane](https://github.com/mziwisky/bullet-ane) - ANE for the Bullet physics simulation library
+* [Misc-AIR](https://github.com/benkuper/AIR-NativeExtensions) - Collection of ANEs for Adobe AIR
+
+### File System ANE
+* [fileChooser-ANE](https://github.com/myflashlab/fileChooser-ANE) - FileChooser is a very easy to work ANE to let you choose a file from your device to be able to use it inside your Adobe Air project
+* [zipManager-ANE](https://github.com/myflashlab/zipManager-ANE) - ZipManager ANE will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS
+* [Firebase ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AIR projects supported on both Android and iOS with 100% identical ActionScript API.
+* [downloadManager-ANE](https://github.com/myflashlab/downloadManager-ANE) - Download manager to will help you download large data files to your app. it supports download pause/resume.
+
+### Hardware ANE
+* [bluetooth-ANE](https://github.com/myflashlab/bluetooth-ANE) - With Bluetooth ANE, you'll have access to the Bluetooth hardware. It enable you to scan for other devices, connect to and pair with them and finally transfer data between them.
+* [GPS-ANE](https://github.com/myflashlab/GPS-ANE) - get current device GPS location as fast as possible by automatically checking the best available provider
+* [speech-ANE](https://github.com/myflashlab/speech-ANE) - The Speech API extension lets you convert Strings to voice files and vice versa without any annoying mic activities. the extension will work fully in the background
+* [GoogleVR-ANE](https://github.com/myflashlab/GoogleVR-ANE) - Google Virtual Reality SDK available to AIR developers
+* [joystick-ane](https://github.com/StackAndHeap/joystick-ane) - ANE Joystick Library
+* [AIRControl](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller ANE.
+* [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller
+* [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK
+
+### System ANE
+* [alarmManager-ANE](https://github.com/myflashlab/alarmManager-ANE) - What do you do if you need to run a task on a specific time even if your AIR app is fully closed? you need an Alarm Manager ANE
+* [inAppPayments-ANE](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS
+* [PermissionCheck-ANE](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app
+* [RateMe-ANE](https://github.com/myflashlab/RateMe-ANE) - Rate Me ANE lets you ask your users to rate your app in the most efficient way
+* [Statusbar-ANE](https://github.com/myflashlab/Statusbar-ANE) - Control the Statusbar in your AIR apps in runtime with this ANE
+* [Badge-ANE](https://github.com/myflashlab/Badge-ANE) - This ANE lets you control the iOS badge value directly from Adobe AIR app
+* [easyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Run AS worker in your AIR projects without having to deal with complicated flash.system.Worker class
+* [Can-Open-URL ANE](https://github.com/StickSports/ANE-Can-Open-URL) - ANE for iOS to detect whether an app is installed to handle a specific URL scheme.
+
+### Social ANE
+* [facebook-ANE](https://github.com/myflashlab/facebook-ANE) - This ANE is your best solution to integrate Facebook SDK into your AIR apps
+* [GCM-ANE](https://github.com/myflashlab/GCM-ANE) - GCM ANE lets you use Google cloud messaging on Android and iOS. 
+* [Spotlight-ANE](https://github.com/myflashlab/Spotlight-ANE) - Spotlight ANE brings iOS 9 spotlight library to Adobe Air applications. With this ANE, you can index search items at runtime and even from user generated content
+
+### API ANE
+* [Admob-ANE](https://github.com/myflashlab/Admob-ANE) - Admob ANE
+* [GameServices-ANE](https://github.com/myflashlab/GameServices-ANE) - Game Services ANE is supported on Android and iOS with 100% identical ActionScript API with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.
+* [MoPub-ANE](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising
+* [ANE-UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics_Sdk  (iOS  And Android)
+* [ANE-Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android)
+* [baidu-ANE](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for ios and android
+* [ANE-testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
+* [Chartboost ANE](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
+
 ## 3D Engines
 
 ### Away3D
@@ -808,7 +866,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 
 ## Video Games
 
-## Games
+### Games
 
 * [Hungry-Hero](https://github.com/hsharma/Hungry-Hero) - Hungry Hero is an open source Flash game built on Starling Framework.
 * [Reversi](https://github.com/cantrell/Reversi) - A simple Reversi game written in ActionScript. It's designed to run on any device that supports Flash/AIR, regardless of screen size. For instructions on building the Reversi projects, see the Reversi Wiki.
@@ -974,64 +1032,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [minko-demo-gravity](https://github.com/aerys/minko-demo-gravity) - An example of mouse interactivity with 3D content and custom shaders
 * [agalthemean](https://github.com/thepalebluedot/agalthemean) - Real time AGAL shader editor based on Minimole.
 * [FlashShader](https://github.com/matrix3d/FlashShader) - a shader tool create agal
-
-## Native Extension
-
-### Multimedia ANE
-* [WebView ANE](https://github.com/myflashlab/webView-ANE) - perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from flash and send String messages from JS to flash.
-* [PDF-ANE](https://github.com/myflashlab/PDF-ANE) - Pdf Viewer ANE lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS
-* [SongPicker ANE](https://github.com/richpixel/SongPickerANE) - A song picker/player ANE for iOS and Android.
-* [VideoPlayer ANE](https://github.com/myflashlab/videoPlayer-ANE) - video player ANE supported on Android and iOS 64-bit let's you play video files in android or iOS players. your videos can be locally availble on your device or they can be online. in the sample codes we have also used our YouTube link parser found here: https://github.com/myflashlab/AS3-youtube-parser-video-link/ and with that you can easily play YouTube videos too.
-* [SurfaceVideoPlayer-ANE](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects
-* [AR-ANE](https://github.com/myflashlab/AR-ANE-Samples) - MyAR is an AR ANE supporting Android and iOS 64-bit based on Metaio's SDK.
-* [qr-zbar ANE](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader
-* [barcode-ANE](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE
-* [SilentSwitch ANE](https://github.com/StickSports/ANE-Silent-Switch) - ANE for iOS to mute sounds if the hardware silent switch is on.
-* [VolumePro-ANE](https://github.com/myflashlab/VolumePro-ANE) - This ANE is a must have ANE for you in every game you are developing. It will not only let you control the native music stream volume, you can listen to the volume changes
-* [SystemVolume-ANE](https://github.com/nweber/SystemVolumeNativeExtension) - An AIR native extension to interact with the system volume for iOS and Android devices.
-* [bullet-ane](https://github.com/mziwisky/bullet-ane) - ANE for the Bullet physics simulation library
-* [Misc-AIR](https://github.com/benkuper/AIR-NativeExtensions) - Collection of ANEs for Adobe AIR
-
-### File System ANE
-* [fileChooser-ANE](https://github.com/myflashlab/fileChooser-ANE) - FileChooser is a very easy to work ANE to let you choose a file from your device to be able to use it inside your Adobe Air project
-* [zipManager-ANE](https://github.com/myflashlab/zipManager-ANE) - ZipManager ANE will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS
-* [Firebase ANE](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AIR projects supported on both Android and iOS with 100% identical ActionScript API.
-* [downloadManager-ANE](https://github.com/myflashlab/downloadManager-ANE) - Download manager to will help you download large data files to your app. it supports download pause/resume.
-
-### Hardware ANE
-* [bluetooth-ANE](https://github.com/myflashlab/bluetooth-ANE) - With Bluetooth ANE, you'll have access to the Bluetooth hardware. It enable you to scan for other devices, connect to and pair with them and finally transfer data between them.
-* [GPS-ANE](https://github.com/myflashlab/GPS-ANE) - get current device GPS location as fast as possible by automatically checking the best available provider
-* [speech-ANE](https://github.com/myflashlab/speech-ANE) - The Speech API extension lets you convert Strings to voice files and vice versa without any annoying mic activities. the extension will work fully in the background
-* [GoogleVR-ANE](https://github.com/myflashlab/GoogleVR-ANE) - Google Virtual Reality SDK available to AIR developers
-* [joystick-ane](https://github.com/StackAndHeap/joystick-ane) - ANE Joystick Library
-* [AIRControl](https://github.com/AlexanderOMara/AIRControl) - Adobe AIR Game Controller ANE.
-* [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller
-* [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK
-
-### System ANE
-* [alarmManager-ANE](https://github.com/myflashlab/alarmManager-ANE) - What do you do if you need to run a task on a specific time even if your AIR app is fully closed? you need an Alarm Manager ANE
-* [inAppPayments-ANE](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS
-* [PermissionCheck-ANE](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app
-* [RateMe-ANE](https://github.com/myflashlab/RateMe-ANE) - Rate Me ANE lets you ask your users to rate your app in the most efficient way
-* [Statusbar-ANE](https://github.com/myflashlab/Statusbar-ANE) - Control the Statusbar in your AIR apps in runtime with this ANE
-* [Badge-ANE](https://github.com/myflashlab/Badge-ANE) - This ANE lets you control the iOS badge value directly from Adobe AIR app
-* [easyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Run AS worker in your AIR projects without having to deal with complicated flash.system.Worker class
-* [Can-Open-URL ANE](https://github.com/StickSports/ANE-Can-Open-URL) - ANE for iOS to detect whether an app is installed to handle a specific URL scheme.
-
-### Social ANE
-* [facebook-ANE](https://github.com/myflashlab/facebook-ANE) - This ANE is your best solution to integrate Facebook SDK into your AIR apps
-* [GCM-ANE](https://github.com/myflashlab/GCM-ANE) - GCM ANE lets you use Google cloud messaging on Android and iOS. 
-* [Spotlight-ANE](https://github.com/myflashlab/Spotlight-ANE) - Spotlight ANE brings iOS 9 spotlight library to Adobe Air applications. With this ANE, you can index search items at runtime and even from user generated content
-
-### API ANE
-* [Admob-ANE](https://github.com/myflashlab/Admob-ANE) - Admob ANE
-* [GameServices-ANE](https://github.com/myflashlab/GameServices-ANE) - Game Services ANE is supported on Android and iOS with 100% identical ActionScript API with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.
-* [MoPub-ANE](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising
-* [ANE-UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics_Sdk  (iOS  And Android)
-* [ANE-Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android)
-* [baidu-ANE](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for ios and android
-* [ANE-testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
-* [Chartboost ANE](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
 
 ## Apps & Tools
 
