@@ -603,6 +603,7 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 ### SWF
 
 * [as3swf](https://github.com/claus/as3swf) - Low level Actionscript 3 library to parse, create, modify and publish SWF files.
+* [as3abc](https://github.com/imcj/as3abc) - Low level Actionscript 3 library to parse, create, modify and publish ABC (Actionscript Block Code) files
 * [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools
 * [abc-abstraction](https://github.com/krilnon/abc-abstraction) - Provides an abstraction of the bytecode found inside Flash SWF files, and allows ABC to be analyzed, manipulated, packaged back into an SWF, and run within a matter of seconds or milliseconds at runtime.
 * [secure-swfupload](https://github.com/WordPress/secure-swfupload) - A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org.
@@ -1644,7 +1645,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [as-sqs](https://github.com/jbaudanza/as-sqs) - Amazon SQS bindings for ActionScript
 * [actionscript-energy](https://github.com/interactivenyc/actionscript-energy) - Actionscript Energy
 * [ResoursesManager](https://github.com/inozemcev/ResoursesManager) - Simple manager for loading any content in actionscript project
-* [as3abc](https://github.com/imcj/as3abc) - Low level Actionscript 3 library to parse, create, modify and publish ABC (Actionscript Block Code) files
 * [ASLib](https://github.com/iloveitaly/ASLib) - Actionscript library to help ease AS 2/3 development
 * [FlashSorts](https://github.com/iheart2code/FlashSorts) - Common sorting algorithms implemented in ActionScript
 * [ToolTip-ActionScript3](https://github.com/iflashlord/ToolTip-ActionScript3) - Simple ToolTip Class
