@@ -899,6 +899,34 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [ActionScript-Papervision3D-Simulation](https://github.com/den258/ActionScript-Papervision3D-Simulation) - Papervision3D Simulation by ActionScript
 * [papervision3d](https://github.com/timknip/papervision3d) - Papervision3D - 3.0
 
+### Other Engines
+
+* [Sandy3D-Haxe](https://github.com/hgupta9/Sandy3D-Haxe) - Sandy is a Flash 3D engine developed by Thomas Pfeiffer
+* [Sandy3D](https://github.com/hgupta9/Sandy3D) - Sandy is a Flash 3D engine developed by Thomas Pfeiffer
+* [Yogurt3D](https://github.com/yogurt3d/Yogurt3D) - Flash Game Engine that utilizes the power of Stage3D, the new hardware acceleration for Flash Player 11
+* [ND2Dx](https://github.com/NoRabbit/ND2Dx) - 2D GPU Accelerated Game Engine for Flash Stage3D
+* [YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
+* [Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
+* [Nexus](https://github.com/tversteeg/Nexus) - Actionscript 3, GPU accelerated 2D game engine using Stage3D
+* [Backstage2D](https://github.com/unFocus/Backstage2D) - A 2D Engine for Stage3D (MoleHill) and Actionscript 3.0
+* [3DFlipBookEngine](https://github.com/foo123/3DFlipBookEngine) - [PROJECT STOPPED] Real 3D Flip Book in Actionscript 3
+* [nd2d](https://github.com/lrrrs/nd2d) - A Flash Molehill (Stage3D) GPU accelerated 2D game engine
+* [CadetEngine-as](https://github.com/CadetEditor/CadetEngine-as) - CadetEngine is a component-based AS3 Scene Engine supporting 2D and 3D GPU accelerated rendering, physics, custom behaviours and 3rd party library integration. It has been designed from the ground up to be plug-and-play with editability in mind.
+* [minko-examples](https://github.com/aerys/minko-examples) - Samples for the Minko 3D engine.
+* [nest3d](https://github.com/sindney/nest3d) - Light weight AS3 3D engine for developers.
+* [ReMX](https://github.com/AdamHarte/ReMX) - 2D arcade game framework that uses the AS3 Stage3D API for GPU accelerated graphics rendering
+* [minimole-core](https://github.com/thepalebluedot/minimole-core) - Minimalistic Molehill based Flash 3D engine.
+* [Flare3D engine](https://github.com/Flare3D/engine) - Flare3D Engine and core functionality.
+* [Flare3D labs](https://github.com/Flare3D/labs) - Flare3D experiments and non-fully tested code.
+* [Memory3D](https://github.com/PrimaryFeather/Memory3D) - A simple implementation of "Memory" (also known as "Concentration") showcasing Starling's Sprite3D functionality.
+* [minko-demo-google-globe](https://github.com/aerys/minko-demo-google-globe) - A demonstration of data visualization in 3D with Minko
+* [ptolemy3D](https://github.com/alecmce/ptolemy3D) - Some platonic solids in 3D
+* [Chaos2D](https://github.com/tywang2006/Chaos2D) - Stage3D engine
+* [minko-as3](https://github.com/aerys/minko-as3) - 3D framework for web, desktop and mobile devices.
+* [minko-demo-gravity](https://github.com/aerys/minko-demo-gravity) - An example of mouse interactivity with 3D content and custom shaders
+* [agalthemean](https://github.com/thepalebluedot/agalthemean) - Real time AGAL shader editor based on Minimole.
+* [FlashShader](https://github.com/matrix3d/FlashShader) - a shader tool create agal
+
 ## Video Games
 
 ### Games
@@ -960,6 +988,10 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [GraveRobbers](https://github.com/AdamAtomic/GraveRobbers) - My #LD48 entry, a sort of GIRP-inspired tower defense
 * [SnakeWars](https://github.com/SuyashMShepHertz/SnakeWars) - Basic Multiplayer Snake Game
 * [Asteroids](https://github.com/richardlord/Asteroids) - An example game built with the Ash framework.
+* [AS3-Dices](https://github.com/hayesmaker/AS3-Dices) - Actionscript 3.0 Dice rolling animation using Stage3D, Away3D and Jiglib
+* [3DRubikCube](https://github.com/foo123/3DRubikCube) - [PROJECT STOPPED] Intuitive 3D Rubik Cube in Actionscript 3
+* [Invawayders](https://github.com/awaystudios/Invawayders) - Cross-platform gaming example for Away3D in Adobe Flash & AIR, using AS3 games engine Ash
+* [pblocks](https://github.com/ghempton/pblocks) - Flex 3D Tetris Game
 
 ### Game Controller
 
@@ -1044,39 +1076,6 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [SmartKid](https://github.com/skyfeiyun/SmartKid) - SmartKid is a powerful AI engine for 2D&3D with actionScript. The project is especially for the 3D engine Nest3D.
 * [godmode-as3](https://github.com/tconkling/godmode-as3) - A behavior tree implementation (artificial intelligence)
 
-### Other Engines
-
-* [Sandy3D-Haxe](https://github.com/hgupta9/Sandy3D-Haxe) - Sandy is a Flash 3D engine developed by Thomas Pfeiffer
-* [Sandy3D](https://github.com/hgupta9/Sandy3D) - Sandy is a Flash 3D engine developed by Thomas Pfeiffer
-* [Yogurt3D](https://github.com/yogurt3d/Yogurt3D) - Flash Game Engine that utilizes the power of Stage3D, the new hardware acceleration for Flash Player 11
-* [ND2Dx](https://github.com/NoRabbit/ND2Dx) - 2D GPU Accelerated Game Engine for Flash Stage3D
-* [YCanvas](https://github.com/jozefchutka/YCanvas) - YCanvas is an open source 2D tile renderer library written in ActionScript 3. It provides high performance solution for rendering world maps. The library also contains Stage3D (GPU) accelerated implementation based on Starling.
-* [Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
-* [Nexus](https://github.com/tversteeg/Nexus) - Actionscript 3, GPU accelerated 2D game engine using Stage3D
-* [Backstage2D](https://github.com/unFocus/Backstage2D) - A 2D Engine for Stage3D (MoleHill) and Actionscript 3.0
-* [3DFlipBookEngine](https://github.com/foo123/3DFlipBookEngine) - [PROJECT STOPPED] Real 3D Flip Book in Actionscript 3
-* [AS3-Dices](https://github.com/hayesmaker/AS3-Dices) - Actionscript 3.0 Dice rolling animation using Stage3D, Away3D and Jiglib
-* [3DRubikCube](https://github.com/foo123/3DRubikCube) - [PROJECT STOPPED] Intuitive 3D Rubik Cube in Actionscript 3
-* [aw3d](https://github.com/BlackMoon/aw3d) - 3d Max model browser (Flash, ActionScript, Away3D)
-* [nd2d](https://github.com/lrrrs/nd2d) - A Flash Molehill (Stage3D) GPU accelerated 2D game engine
-* [CadetEngine-as](https://github.com/CadetEditor/CadetEngine-as) - CadetEngine is a component-based AS3 Scene Engine supporting 2D and 3D GPU accelerated rendering, physics, custom behaviours and 3rd party library integration. It has been designed from the ground up to be plug-and-play with editability in mind.
-* [minko-examples](https://github.com/aerys/minko-examples) - Samples for the Minko 3D engine.
-* [nest3d](https://github.com/sindney/nest3d) - Light weight AS3 3D engine for developers.
-* [ReMX](https://github.com/AdamHarte/ReMX) - 2D arcade game framework that uses the AS3 Stage3D API for GPU accelerated graphics rendering
-* [minimole-core](https://github.com/thepalebluedot/minimole-core) - Minimalistic Molehill based Flash 3D engine.
-* [Invawayders](https://github.com/awaystudios/Invawayders) - Cross-platform gaming example for Away3D in Adobe Flash & AIR, using AS3 games engine Ash
-* [engine](https://github.com/Flare3D/engine) - Flare3D Engine and core functionality.
-* [labs](https://github.com/Flare3D/labs) - Flare3D experiments and non-fully tested code.
-* [Memory3D](https://github.com/PrimaryFeather/Memory3D) - A simple implementation of "Memory" (also known as "Concentration") showcasing Starling's Sprite3D functionality.
-* [minko-demo-google-globe](https://github.com/aerys/minko-demo-google-globe) - A demonstration of data visualization in 3D with Minko
-* [pblocks](https://github.com/ghempton/pblocks) - Flex 3D Tetris Game
-* [ptolemy3D](https://github.com/alecmce/ptolemy3D) - Some platonic solids in 3D
-* [Chaos2D](https://github.com/tywang2006/Chaos2D) - Stage3D engine
-* [minko-as3](https://github.com/aerys/minko-as3) - 3D framework for web, desktop and mobile devices.
-* [minko-demo-gravity](https://github.com/aerys/minko-demo-gravity) - An example of mouse interactivity with 3D content and custom shaders
-* [agalthemean](https://github.com/thepalebluedot/agalthemean) - Real time AGAL shader editor based on Minimole.
-* [FlashShader](https://github.com/matrix3d/FlashShader) - a shader tool create agal
-
 ## Apps & Tools
 
 ### Development Tool
@@ -1121,11 +1120,11 @@ A curated list of awesome ActionScript frameworks, libraries, components and eng
 * [rpflex](https://github.com/cccssw/rpflex) - An AS Lib for manipulate face decorations and its example project rpmobile
 * [AMFEditor](https://github.com/turbosqel/AMFEditor) - Complex , expandable application ( Flex , AIR , actionscript 3 ) to create , edit , load/save files , download , data in AMF3 (action message format) .
 * [Finicky](https://github.com/tpryan/Finicky) - Finicky is a mobile app designed to track hard to find local items for travelers.  Made with Flex and AIR.
+* [aw3d](https://github.com/BlackMoon/aw3d) - 3d Max model browser (Flash, ActionScript, Away3D)
 * [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) - ArcGIS Viewer for Flex - a great application framework for web applications.
 * [opentshirts](https://github.com/opentshirts/opentshirts) - Opentshirts is the free open source t-shirt design software for eCommerce.
 * [QNXUIExamples](https://github.com/renaun/QNXUIExamples) - This is a set of example projects for building AIR application on the PlayBook with the QNX classes.
 * [krecord](https://github.com/kaltura/krecord) - KRecord is a chromeless (no UI) Flash application that simplify webcam recording on websites, uploading the recordings to Kaltura.
-
 ### Emulators
 
 * [NES Emulator](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles
