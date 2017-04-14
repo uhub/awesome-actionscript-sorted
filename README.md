@@ -1,4 +1,4 @@
-#awesome-actionscript
+# awesome-actionscript
 
 A curated list of awesome ActionScript frameworks, libraries, components and engines.
 
